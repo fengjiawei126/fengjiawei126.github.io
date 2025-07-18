@@ -34,7 +34,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:fengjiawei126@gmail.com'
-    # label: E-mail Me
+  # label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -47,6 +47,8 @@ profiles:
     url: https://scholar.google.com/citations?user=x7ye4GoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-4316-3904
+  - icon: custom/csdn
+    url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
 
 interests:
   - Sustainability

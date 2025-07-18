@@ -1,0 +1,10 @@
+/* 使 navbar 内容水平居中 */
+.navbar {
+  justify-content: center !important;
+}
+
+/* 如果导航菜单本身是 flex 布局，调整其子元素居中 */
+.navbar .blox {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
