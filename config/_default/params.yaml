@@ -62,3 +62,6 @@ features:
     enable: false
 
 
+extensions:
+  academicons:
+    enable: true
