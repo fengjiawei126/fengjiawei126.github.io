@@ -12,12 +12,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: citationn
+      view: citation
+    #   flip_alt_rows: true
 ---
