@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /#papers
+    url: papers/
     weight: 11
   - name: Talks
-    url: /#talks
+    url: talks/
     weight: 12
   # - name: News
   #   url: /#news
