@@ -47,8 +47,11 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
+links:
+- name: Link
+  url: https://dl.acm.org/doi/10.1145/3589334.3645621
 url_pdf: '1'
+
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
