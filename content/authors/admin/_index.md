@@ -9,6 +9,11 @@ title: Jiawei Feng
 first_name: Jiawei
 last_name: Feng
 
+button:
+      
+        text: Download CV
+        url: uploads/Jiawei_Feng_CV.pdf
+
 # Status emoji
 # status:
 #   icon: ☕️
