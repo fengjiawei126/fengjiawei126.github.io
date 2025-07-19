@@ -9,10 +9,6 @@ title: Jiawei Feng
 first_name: Jiawei
 last_name: Feng
 
-button:
-      
-        text: Download CV
-        url: uploads/Jiawei_Feng_CV.pdf
 
 # Status emoji
 # status:
@@ -25,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-# role: Master's Candidate
+role: "Email: Fengjiawei126@gmail.com"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
