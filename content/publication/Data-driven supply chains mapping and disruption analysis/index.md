@@ -1,7 +1,7 @@
 ---
 title: "Data-driven supply chains mapping and disruption analysis: The case of automotive SoC enterprises in China"
 authors:
-- Jiawei Feng
+- admin
 - Mengsi Cai
 - Fangze Dai
 - Shuo Liu
@@ -9,38 +9,40 @@ authors:
 - Xiaoyu Zhang
 - Huijun Zheng
 - Xin Lu
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Corresponding author"
-date: "2025-07-19T00:00:00Z"
-doi: ""
+# author_notes:
+# - ""
+# - ""
+# - "Corresponding author"
+date: "2025-03-01T00:00:00Z"
+# doi: "10.1016/j.cie.2025.110897"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+# publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Industrial Engineering, 1*(1)"
-publication_short: ""
+publication: "*Computers and Industrial Engineering*, 201(110897), doi: 10.1016/j.cie.2025.110897"
+# publication_short: "CAIE"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Effective modeling of modern supply chains is crucial for improving visibility, mitigating systemic risks, and developing resilient strategies. However, data limitations imposed by industry sensitivity and competition have hindered research in this area. Combining big data and complex network theory, this study introduces an Open Supplier Knowledge Extraction and Complement (OSKEC) approach, incorporating cross-domain named entity recognition, firm entity fuzzy matching, and supplier relation inferring, to construct highly reliable supply chain networks from limited information. Applying OSKEC on the Chinese automotive Systems-on-Chips (SoCs) industry approves its effectiveness in enhancing supply chain visibility and resilience. Topological analysis for the built supply chain network reveals a clear scale-free degree distribution, implying a strong heterogeneity for the interdependence of entities in the network. Specifically, NVIDIA, Qualcomm, and Mobileye occupy the majority share of the automotive SoC market in China, while local enterprises only hold a smaller portion. We further develop two interaction disruption models (IDMs) which simulate the impact of various disturbances on firms with different recovery capacities and risk-transfer strategies, and find that a risk-transfer enterprise strategy may lead to a rapid collapse of the network in the early stages of disruptions. In general, the study improves the understanding of modern supply chain dynamics and inform effective risk management strategies in the Chinese automotive SoC sector.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+tags:
+  - Network science
+  - System dynamics
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: uploads/paper.pdf
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -51,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Automotive SoC supply chain network in the Chinese market.'
   focal_point: ""
   preview_only: true
 

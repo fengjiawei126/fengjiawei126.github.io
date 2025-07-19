@@ -50,9 +50,9 @@ profiles:
     url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
 
 interests:
-  - Sustainability
   - Urban Science
   - Network Science
+  - Machine Learning
   - System Dynamics
 
 education:
@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2022-11-01
     date_end: 2023-05-01
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Data-driven industry analysis
       - Vehicle demand prediction
