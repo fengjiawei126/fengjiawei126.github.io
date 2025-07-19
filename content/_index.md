@@ -19,7 +19,7 @@ sections:
       button:
       
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Jiawei_Feng_CV.pdf
     
     design:
       
