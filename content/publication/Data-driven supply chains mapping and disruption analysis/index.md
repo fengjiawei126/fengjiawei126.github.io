@@ -37,7 +37,9 @@ tags:
   - System dynamics
 
 featured: true
-
+links:
+- name: Link
+  url: https://doi.org/10.1016/j.cie.2025.110897
 # links:
 # - name: ""
 #   url: ""
