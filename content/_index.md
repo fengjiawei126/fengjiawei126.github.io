@@ -20,10 +20,10 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       
-      button:
+      # button:
       
-        text: Download CV
-        url: uploads/Jiawei_Feng_CV.pdf
+      #   text: Download CV
+      #   url: uploads/Jiawei_Feng_CV.pdf
     design:
       
       css_class: dark
