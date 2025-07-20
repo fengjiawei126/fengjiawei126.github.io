@@ -3,7 +3,7 @@ title: "Network structure governs drosophila brain functionality"
 authors:
 - Xiaoyu Zhang
 - Pengcheng Yang
-- admin
+- Jiawei Feng
 - Kang Wen
 - Gang Yan
 - Qiang Luo
