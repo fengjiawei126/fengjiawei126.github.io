@@ -2,7 +2,7 @@
 title: "Perspectives on modelling epidemics with human mobility"
 authors:
 - Xin Lu*
-- Jiawei
+- Jiawei Feng
 - Suoyi Tan
 # author_notes:
 # - ""
