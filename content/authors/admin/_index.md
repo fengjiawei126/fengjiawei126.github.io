@@ -201,4 +201,4 @@ languages:
 
 ## About Me
 
-Jiawei Feng is currently a master’s candidate at the National University of Defense Technology. His research focuses on leveraging empirical data to address real-world challenges via network science, system dynamics modeling, and machine learning. These data sources include human mobility, supply chain systems, sustainability events, and new energy industries. He strives to turn data into meaningful solutions that can drive complex city systems transformation and positive global change.
+Jiawei Feng is currently a master’s candidate at the National University of Defense Technology. His research focuses on leveraging empirical data to address real-world challenges via network science, system dynamics modeling, and machine learning. These data sources include human mobility, supply chain systems, sustainability events, and new energy industries. He strives to turn data into meaningful solutions that can drive complex systems transformation and positive global change.
