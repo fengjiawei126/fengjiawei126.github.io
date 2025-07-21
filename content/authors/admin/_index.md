@@ -32,6 +32,7 @@ organizations:
   - name: National University of Defense Technology (Master's Candidate)
   - name: Peking University (Visiting Student)
   - name: City University of Hongkong (Part-time RA)
+  
 
     # url: https://openai.com/
 
@@ -65,19 +66,19 @@ interests:
   - System Dynamics
 
 education:
-  - area: Part-time RA
-    institution: City University of Hong Kong
-    date_start: 2026-06-01
-    date_end: 2025-06-01
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: Visiting Student
-    institution: Peking University
-    date_start: 2025-12-01
-    date_end: 2025-02-01
+  # - area: Part-time RA
+  #   institution: City University of Hong Kong
+  #   date_start: 2026-06-01
+  #   date_end: 2025-06-01
+  #   # summary: |
+  #   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   # button:
+  #   #   text: 'Read Thesis'
+  #   #   url: 'https://example.com'
+  # - area: Visiting Student
+  #   institution: Peking University
+  #   date_start: 2025-12-01
+  #   date_end: 2025-02-01
 
   - area: MEng in Management Science & Engineering
     institution: National University of Defense Technology
