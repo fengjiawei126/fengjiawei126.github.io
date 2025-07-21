@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/tags/system-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <description>System Dynamics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_d425f73b8b83ce4.png</url>
+      <title>System Dynamics</title>
+      <link>http://localhost:1313/tags/system-dynamics/</link>
+    </image>
+    
     <item>
       <title>Data-driven supply chains mapping and disruption analysis: The case of automotive SoC enterprises in China</title>
       <link>http://localhost:1313/publication/data-driven-supply-chains-mapping-and-disruption-analysis/</link>

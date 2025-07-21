@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/tags/urban-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_d425f73b8b83ce4.png</url>
+      <title>Urban Science</title>
+      <link>http://localhost:1313/tags/urban-science/</link>
+    </image>
+    
     <item>
       <title>Perspectives on modelling epidemics with human mobility</title>
       <link>http://localhost:1313/publication/epl/</link>
