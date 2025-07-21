@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_d425f73b8b83ce4.png</url>
-      <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
-    </image>
-    
     <item>
       <title>Learn JavaScript</title>
       <link>http://localhost:1313/teaching/js/</link>
