@@ -10,6 +10,7 @@ design:
 
 sections:
   
+  
   - block: resume-biography-3
 
 
