@@ -3,7 +3,7 @@
 title: Jiawei Feng
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: " "
 
 # Full name (for SEO)
 first_name: Jiawei
@@ -23,10 +23,15 @@ highlight_name: true
 # Role/position/tagline
 role: "fengjiawei126@gmail.com"
 
+
+
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
+
   - name: Peking University (Visiting Student)
   - name: City University of Hongkong (Part-time RA)
+
     # url: https://openai.com/
 
 
