@@ -34,7 +34,7 @@ abstract: "How intelligence emerges in living beings is a fundamental but largel
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
   - Network science
-  - System dynamics
+
 
 featured: true
 links:

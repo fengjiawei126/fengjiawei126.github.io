@@ -1,0 +1,10 @@
+/* 自定义字体 */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* 调整页面宽度 */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}

@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "Email: fengjiawei126@gmail.com"
+role: "fengjiawei126@gmail.com"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
