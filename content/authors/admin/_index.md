@@ -121,8 +121,8 @@ work:
     company_name: Netease
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04-01
+    date_end: 2022-07-01
     summary: |
       Responsibilities include:
       - Educational data verification
