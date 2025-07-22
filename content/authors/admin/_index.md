@@ -197,4 +197,4 @@ languages:
 
 ## About Me
 
-His research focuses on leveraging empirical data to address real-world challenges via network science, system dynamics modeling, and machine learning. These data sources include human mobility, supply chain systems, sustainability events, and new energy industries. He strives to turn data into meaningful solutions that can drive complex systems transformation and positive global change.
+His research focuses on leveraging empirical data (e.g., human mobility, supply chains, road networks, urban infrastructures, and new energy industries) to address real-world challenges through network science theory, system dynamics modeling, and machine learning methods.
