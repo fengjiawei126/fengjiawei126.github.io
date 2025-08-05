@@ -54,14 +54,15 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Recent Works
       filters:
         folders:
           - publication
         featured_only: true
+      count: 600
     design:
       view: article-grid
-      columns: 4
+      columns: 3
 
  
   # - block: collection

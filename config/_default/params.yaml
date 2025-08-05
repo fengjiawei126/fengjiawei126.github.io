@@ -65,3 +65,7 @@ features:
 extensions:
   academicons:
     enable: true
+
+
+show_reading_time: false
+reading_time: false
