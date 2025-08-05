@@ -2,19 +2,20 @@
 title: "Data-driven supply chains mapping and disruption analysis: The case of automotive SoC enterprises in China"
 authors:
 - Jiawei Feng
-- Mengsi Cai*
+- Mengsi Cai *
 - Fangze Dai
 - Shuo Liu
 - Tianci Bu
 - Xiaoyu Zhang
 - Huijun Zheng
-- Xin Lu*
+- Xin Lu *
 # author_notes:
 # - ""
 # - ""
 # - "Corresponding author"
 date: "2025-03-01T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-19T00:00:00Z"

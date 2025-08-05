@@ -10,7 +10,7 @@ authors:
   - Wenchuan Yang
   - Jiawei Feng
   - Xiaoyu Zhang
-  - Xin Lu*
+  - Xin Lu *
 
 # Author notes (optional)
 # author_notes:
@@ -19,6 +19,7 @@ authors:
 
 date: '2024-05-13T00:00:00Z'
 # doi: ''
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-19T00:00:00Z'
@@ -35,7 +36,7 @@ publication: "*Proceedings of the ACM Web Conference 2024*, 2216-2225, doi:10.11
 abstract: "Continual Relation Extraction (CRE) has found widespread web applications (e.g., search engines) in recent times. One significant challenge in this task is the phenomenon of catastrophic forgetting, where models tend to forget earlier information. Existing approaches in this field predominantly rely on memory-based methods to alleviate catastrophic forgetting, which overlooks the inherent challenge posed by the varying memory requirements of different relations and the need for a suitable memory refreshing strategy. Drawing inspiration from the mechanisms of Dynamic Random Access Memory (DRAM), our study introduces a novel CRE architecture with an asynchronous refreshing strategy to tackle these challenges. We first design a DRAM-like architecture, comprising three key modules: perceptron, controller, and refresher. This architecture dynamically allocates memory, enabling the consolidation of well-remembered relations while allocating additional memory for revisiting poorly learned relations. Furthermore, we propose a compromising asynchronous refreshing strategy to find the pivot between over-memorization and overfitting, which focuses on the current learning task and mixed-memory data asynchronously. Additionally, we explain the existing refreshing strategies in CRE from the DRAM perspective. Our proposed method has experimented on two benchmarks and overall outperforms ConPL (the SOTA method) by an average of 1.50% on accuracy, which demonstrates the efficiency of the proposed architecture and refreshing strategy."
 
 # Summary. An optional shortened abstract.
-summary: WWW 2024
+summary: WWW (Proceedings of the ACM Web Conference) 2024
 
 tags:
   - Machine learning

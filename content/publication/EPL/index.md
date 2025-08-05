@@ -1,8 +1,8 @@
 ---
 title: "Perspectives on modelling epidemics with human mobility"
 authors:
-- Xin Lu*
-- Jiawei Feng
+- Xin Lu ⁺ *
+- Jiawei Feng ⁺
 - Suoyi Tan
 # author_notes:
 # - ""
@@ -10,6 +10,7 @@ authors:
 # - "Corresponding author"
 date: "2025-01-31T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-19T00:00:00Z"
@@ -26,13 +27,13 @@ publication: "*EPL (Europhysics Letters)*, 149(4), 41002, doi: 10.1209/0295-5075
 abstract: "Human mobility serves as a fundamental component in shaping the contact networks through which infectious diseases propagate during pandemics. It significantly influences the spatial and temporal patterns of disease transmission among individuals. Traditional epidemic models often struggle to capture the complexity of these heterogeneous contact patterns. In contrast, models incorporating human mobility, which account for the movement of individuals across regions, offer a detailed perspective on micro-level interactions and their impact on disease spread. The discussion highlights four types of epidemic models that integrate human mobility, including compartment models, complex network models, agent-based models and machine learning models, emphasising their crucial roles in epidemic prediction and control. Additionally, it provides insights into the broader implications of human mobility on dynamic-modelling and decision-making within the context of epidemics."
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: EPL (Europhysics Letters)
 tags:
   - System dynamics
   - Urban science
   - Network science
 
-featured: false
+featured: true
 links:
 - name: Link
   url: https://doi.org/10.1209/0295-5075/adad94
@@ -50,10 +51,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Visualization of Drosophila connectome.'
-#   focal_point: ""
-#   preview_only: true
+image:
+  caption: 'The process of transforming a contact network to embedding vectors for downstream tasks.'
+  focal_point: ''
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

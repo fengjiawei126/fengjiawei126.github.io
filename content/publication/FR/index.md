@@ -8,13 +8,14 @@ authors:
 - Gang Yan
 - Qiang Luo
 - Wei Lin
-- Xin Lu*
+- Xin Lu *
 # author_notes:
 # - ""
 # - ""
 # - "Corresponding author"
 date: "2025-03-01T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-19T00:00:00Z"

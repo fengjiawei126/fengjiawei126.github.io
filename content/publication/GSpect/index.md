@@ -6,8 +6,9 @@ authors:
 - Jiawei Feng
 - Bitao Dai
 - Tianci Bu
-- Xin Lu*
+- Xin Lu *
 date: "2024-12-11T00:00:00Z"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-19T00:00:00Z"

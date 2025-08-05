@@ -5,7 +5,7 @@ authors:
 - 戴碧涛
 - 卜天赐
 - 张笑宇
-- 欧朝敏*
+- 欧朝敏 *
 - 吕欣
 # author_notes:
 # - ""
@@ -13,6 +13,7 @@ authors:
 # - "Corresponding author"
 date: "2024-10-16T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-19T00:00:00Z"
@@ -27,7 +28,7 @@ publication: "*系统科学与数学*, 45(4), 1031-1043, doi: 10.12341/jssms2400
 abstract: "在世界范围内发生的大量恐怖袭击事件中,各地的恐怖主义组织呈现出协同合作的趋势,对国际反恐工作提出了巨大的挑战.基于全球恐怖主义数据库GTD,本文从2001年至2018年全球发生的121,074起恐怖袭击事件中构建了恐怖组织合作演化网络,并对该网络进行时序拓扑结构分析.根据恐怖组织合作特性,将网络按照3年为一个时间切片进行划分,从多尺度对恐怖组织社团流动规律进行建模.分析结果表明,随着时间推移,恐怖组织合作网络的鲁棒性也在不断增强,因此有必要提出相应的策略对其进行瓦解.针对恐怖组织合作网络中影响力不断扩大的最大连通子网络,本文提出了一种基于社团结构的邻域中心性指标(CSNC)以度量最大连通片节点的重要性.基于该指标的网络瓦解策略在2001-2018年恐怖组织合作网络仿真实验中得到的R值与多种基准策略相比,最高降低了16.45%,证明基于CSNC的瓦解策略可以实现对恐怖分子合作网络更有效的瓦解."
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 系统科学与数学
 tags:
   - Network science
   - System dynamics

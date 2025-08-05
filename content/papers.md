@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '0rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -12,12 +12,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications
+      # title: Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+      count: 190
     design:
       view: citation
     #   flip_alt_rows: true
