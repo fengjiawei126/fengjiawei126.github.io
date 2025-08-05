@@ -13,8 +13,6 @@ sections:
   
   - block: resume-biography-3
 
-
-    
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -62,7 +60,7 @@ sections:
       count: 600
     design:
       view: article-grid
-      columns: 3
+      columns: 4
 
  
   # - block: collection
