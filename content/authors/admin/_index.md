@@ -30,7 +30,7 @@ role: "fengjiawei126@gmail.com"
 organizations:
 
   - name: Peking University (Visiting Student)
-  - name: City University of Hongkong (Part-time RA)
+  - name: City University of Hong Kong (Part-time RA)
   
 
     # url: https://openai.com/
