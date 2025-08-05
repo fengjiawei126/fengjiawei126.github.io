@@ -31,7 +31,7 @@ organizations:
 
   - name: National University of Defense Technology (Master's Candidate)
   - name: Peking University (Visiting Student)
-  - name: City University of Hongkong (Part-time RA)
+  - name: City University of Hong Kong (Part-time RA)
   
 
     # url: https://openai.com/
