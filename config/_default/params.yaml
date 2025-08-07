@@ -33,7 +33,8 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    # 修改appearance
+    show_theme_chooser: true
     logo:
       text: "Feng Jiawei"
 
