@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald
 
 # SEO
@@ -26,7 +26,7 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
+# Site header 左上角的标题
 header:
   navbar:
     enable: true
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: "Jiawei Feng"
+      text: "Feng Jiawei"
 
 # Site footer
 footer:
