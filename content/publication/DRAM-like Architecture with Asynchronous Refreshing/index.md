@@ -19,7 +19,7 @@ authors:
 
 date: '2024-05-13T00:00:00Z'
 # doi: ''
-
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-19T00:00:00Z'
