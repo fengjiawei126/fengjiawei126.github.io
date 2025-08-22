@@ -14,3 +14,21 @@ p.powered-by:last-of-type {
 .page-footer .container {
   margin-top: 0; /* 调整为希望的间距 */
 }
+#share-link-x {
+  display: none;  /* 隐藏该链接 */
+}
+#share-link-facebook {
+  display: none;  /* 隐藏该链接 */
+}
+#share-link-twitter {
+  display: none;  /* 隐藏该链接 */
+}
+#share-link-linkedin {
+  display: none;  /* 隐藏该链接 */
+}
+#share-link-whatsapp {
+  display: none;  /* 隐藏该链接 */
+}
+#share-link-email {
+  display: none;  /* 隐藏该链接 */
+}
