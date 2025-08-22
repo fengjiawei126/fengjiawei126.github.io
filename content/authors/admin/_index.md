@@ -146,11 +146,14 @@ skills:
         description: ''
         percent: 60
         icon: circle-stack
-
+      - name: NLP
+        description: ''
+        percent: 60
+        icon: microphone
       - name: Python
         description: ''
         percent: 90
-        icon: code-bracket
+        icon: code-bracket-square
 
 
 #   - name: Hobbies
