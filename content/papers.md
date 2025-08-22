@@ -12,7 +12,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications
+      title: 
       text: ""
       filters:
         folders:

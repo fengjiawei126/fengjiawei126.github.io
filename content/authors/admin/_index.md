@@ -132,40 +132,82 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 
     items:
-      - name: Python
-        description: ''
-        percent: 80
+
+      - name: R
         icon: code-bracket
-      - name: Data Science
+        percent: 75
+      - name: GIS
         description: ''
         percent: 85
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
-      - name: R
+
+      - name: Python
+        description: ''
+        percent: 90
         icon: code-bracket
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Skiing
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
- 
+
+#   - name: Hobbies
+#     items:
+#       - name: Skiing
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photo
+#         description: ''
+#         percent: 80
+#         icon: camera
+#       - name: Swimming
+#         description: ''
+#         percent: 80
+#         icon: cube-transparent
+  
+  # - name: Games
+  #   items:
+  #     - name: LOL
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: HOK
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Zelda
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
+  #     - name: Wukong
+  #       description: ''
+  #       percent: 80
+  #       icon: cube-transparent
+  # - name: Travels
+  #   items:
+  #     - name: Yunan
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Hunan
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Guangxi
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
+  #     - name: Chongqing
+  #       description: ''
+  #       percent: 80
+  #       icon: cube-transparent
 
 languages:
   - name: Chinese

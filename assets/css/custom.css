@@ -13,7 +13,28 @@ p.powered-by:last-of-type {
 
 .page-footer .container {
   margin-top: 0; /* 调整为希望的间距 */
+  margin-bottom: 20px; /* 增加底部间距，根据需要调整 */
 }
+
+
+#section-resume-experience {
+  padding: 1rem 0; /* 减少上下的内边距 */
+  margin-top: 0; /* 使该部分与上方内容之间的间距更小 */
+  margin-bottom: -3rem; /* 控制该部分与下方内容的间距 */
+}
+
+
+
+#section-resume-skills .flex {
+  display: flex; /* 启用 Flexbox 布局 */
+  flex-wrap: wrap; /* 允许元素换行 */
+  justify-content: center; /* 水平居中对齐 */
+  gap: 2rem; /* 控制元素之间的间距 */
+}
+
+
+
+
 #share-link-x {
   display: none;  /* 隐藏该链接 */
 }
@@ -49,4 +70,21 @@ a[href='/tags/urban-science/'] {
 a[href='/tags/machine-learning/'] {
   pointer-events: none; /* 禁用点击事件 */
   opacity: 1;          /* 可选：使链接看起来像禁用状态，增加视觉效果 */
+}
+
+
+.container {
+  display: flex;           /* 启用 Flexbox 布局 */
+  flex-direction: column;  /* 在小屏幕下使元素垂直排列 */
+  justify-content: center; /* 水平方向居中 */
+  align-items: center;     /* 垂直方向居中 */
+  max-width: 100%;         /* 限制最大宽度 */
+  margin: 0 auto;          /* 水平居中 */
+  padding: 0 1.5rem;       /* 添加内边距，根据需要调整 */
+}
+
+@media (min-width: 1024px) {
+  .container {
+    flex-direction: row;  /* 在大屏幕下，元素水平排列 */
+  }
 }
