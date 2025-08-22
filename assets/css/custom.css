@@ -6,12 +6,11 @@
 .bio-text {
   margin-top: -80px;  /* 或其他调整 */
 }
+/* 隐藏footer最后一个段落 */
+p.powered-by:last-of-type {
+  display: none; /* 隐藏 "Published with Hugo Blox Builder" 这段 */
+}
 
-
-
-
-
-
-.page-footer {
-  display: none; /* 将 display 属性改为 block，显示该元素 */
+.page-footer .container {
+  margin-top: 0; /* 调整为你希望的间距 */
 }

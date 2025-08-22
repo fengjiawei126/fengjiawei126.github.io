@@ -42,7 +42,7 @@ header:
 footer:
   
   copyright:
-    notice: '© Copyright 2025 Jiawei Feng '
+    notice: '© Copyright 2025 Jiawei Feng. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
