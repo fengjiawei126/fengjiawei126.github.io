@@ -31,12 +31,14 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    fixed_to_top: true
-    show_search: true
+    fixed_to_top: false
+    show_search: false
+    
+    
     # 修改appearance
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
-      text: "Feng Jiawei"
+      text: ""
 
 # Site footer
 footer:
