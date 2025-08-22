@@ -32,3 +32,21 @@ p.powered-by:last-of-type {
 #share-link-email {
   display: none;  /* 隐藏该链接 */
 }
+a[href='/tags/system-dynamics/'] {
+  pointer-events: none; /* 禁用点击事件 */
+  opacity: 1;          /* 可选：使链接看起来像禁用状态，增加视觉效果 */
+}
+
+a[href='/tags/network-science/'] {
+  pointer-events: none; /* 禁用点击事件 */
+  opacity: 1;          /* 可选：使链接看起来像禁用状态，增加视觉效果 */
+}
+
+a[href='/tags/urban-science/'] {
+  pointer-events: none; /* 禁用点击事件 */
+  opacity: 1;          /* 可选：使链接看起来像禁用状态，增加视觉效果 */
+}
+a[href='/tags/machine-learning/'] {
+  pointer-events: none; /* 禁用点击事件 */
+  opacity: 1;          /* 可选：使链接看起来像禁用状态，增加视觉效果 */
+}
