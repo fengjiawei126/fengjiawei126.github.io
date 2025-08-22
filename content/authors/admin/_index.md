@@ -137,24 +137,28 @@ skills:
 
       - name: R
         icon: code-bracket
+        description: 'Visualization'
         percent: 75
       - name: GIS
-        description: ''
+        description: 'Visualization & GIS analysis'
         percent: 85
         icon: chart-bar
       - name: SQL
-        description: ''
+        description: 'Data extraction & analysis'
         percent: 60
         icon: circle-stack
       - name: NLP
-        description: ''
+        description: 'Pre-trained model & large language model'
         percent: 60
         icon: microphone
       - name: Python
-        description: ''
+        description: 'Simulation, calculation, and analysis'
         percent: 90
         icon: code-bracket-square
-
+      - name: Network Analysis
+        description: 'Complex system modeling & cascade effect (ABM)'
+        percent: 95
+        icon: cube-transparent
 
 #   - name: Hobbies
 #     items:
