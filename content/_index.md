@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Jiawei Feng"
+title: ""
 date: 2025-07-18
 type: landing
 
