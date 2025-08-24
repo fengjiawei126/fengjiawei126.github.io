@@ -32,6 +32,7 @@ tags:
   - System dynamics
   - Urban science
   - Network science
+  - 2025
 
 featured: true
 links:

@@ -35,6 +35,7 @@ abstract: "How intelligence emerges in living beings is a fundamental but largel
 summary: Fundamental Research
 tags:
   - Network science
+  - 2025
 
 
 featured: true

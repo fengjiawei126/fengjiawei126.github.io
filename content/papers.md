@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '4rem'
+  spacing: '1rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -12,12 +12,27 @@ design:
 sections:
   - block: collection
     content:
-      title: 
+      title: 2025
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+        tag: "2025"
+ 
+      count: 190
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: 2024
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+        tag: "2024"
+ 
       count: 190
     design:
       view: citation

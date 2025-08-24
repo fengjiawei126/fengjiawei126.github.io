@@ -40,6 +40,7 @@ summary: WWW (Proceedings of the ACM Web Conference 2024)
 
 tags:
   - Machine learning
+  - 2024
 
 # Display this page in the Featured widget?
 featured: true

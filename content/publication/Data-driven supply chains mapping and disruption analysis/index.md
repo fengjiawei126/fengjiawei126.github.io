@@ -36,6 +36,7 @@ summary: Computers & Industrial Engineering
 tags:
   - Network science
   - System dynamics
+  - 2025
 
 featured: true
 links:

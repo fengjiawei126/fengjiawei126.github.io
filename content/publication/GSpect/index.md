@@ -28,6 +28,7 @@ summary: IEEE Transactions on Network Science and Engineering
 tags:
 - Machine learning
 - Network science
+- 2024
 
 featured: true
 
