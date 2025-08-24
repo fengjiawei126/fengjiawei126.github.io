@@ -91,28 +91,39 @@ a[href='/tags/machine-learning/'] {
 
 #section-collection {
   margin-top: 0rem;   /* 调整和上一个元素的距离 */
-  margin-bottom: 0rem;   /* 调整和上一个元素的距离 */
+  margin-bottom: -4rem;   /* 调整和上一个元素的距离 */
 
 }
 
-.flex.flex-col.items-center.max-w-prose.mx-auto.gap-3.justify-center.px-6.md\:px-0 {
-  margin-top: 0rem;
-  align-items: flex-start; /* 左对齐内容 */
-  max-width: 100%;         /* 取消最大宽度限制 */
-  margin-left: 3rem;          /* 去掉自动居中 */
-  margin-right: 0;
+section#section-collection:last-of-type {
+  margin-bottom: 0rem;  /* 只改最后一个 */
 }
+
+
 
 .flex.justify-center > a.no-underline.bg-primary-100.text-primary-800:last-child {
   display: none;
 }
 
 .mb-6.text-3xl.font-bold.text-gray-900.dark\:text-white {
-    font-family: 'Times New Roman', serif; /* 字体 */
-    font-style: italic;  /* 斜体 */
+    font-family: 'Times New Roman', serif;
+    margin-top: -1rem;
+    font-style: italic; 
     font-weight: bold;   /* 加粗 */
-    font-size: 2.5rem;     /* 放大字体，可根据需要调整 */
+
 }
+
+#section-collection 
+  > .flex.flex-col.items-center.max-w-prose.mx-auto.gap-3.justify-center.px-6.md\:px-0
+  > .mb-6.text-3xl.font-bold.text-gray-900.dark\:text-white {
+  margin-top: 1rem;   /* 增加顶部间距 */
+  font-size: 2rem;  /* 放大字体 */
+  font-weight: 700;   /* 加粗 */
+  font-style: italic; /* 斜体 */
+}
+
+
+
 
 
 
