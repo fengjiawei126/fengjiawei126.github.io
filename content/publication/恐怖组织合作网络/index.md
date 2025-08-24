@@ -32,6 +32,8 @@ summary: 系统科学与数学
 tags:
   - Network science
   - System dynamics
+  - 2024
+
 
 featured: false
 links:

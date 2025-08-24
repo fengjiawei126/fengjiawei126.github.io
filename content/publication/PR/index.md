@@ -39,6 +39,7 @@ summary: arXiv
 tags:
 - System dynamics
 - Network science
+- 2025
 
 
 featured: true
