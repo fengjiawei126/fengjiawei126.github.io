@@ -115,6 +115,10 @@ section#section-collection:last-of-type {
 
 }
 
+.w-full.lg\:w-1\/2 {
+    margin-top: -1.5rem; /* 修改为你想要的值，比如 1rem, 20px 等 */
+}
+
 
 #section-collection 
   > .flex.flex-col.items-center.max-w-prose.mx-auto.gap-3.justify-center.px-6.md\:px-0
