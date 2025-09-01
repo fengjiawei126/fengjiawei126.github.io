@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2.5rem"
+  spacing: "3.5rem"
 
 sections:
   
