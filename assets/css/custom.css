@@ -6,6 +6,8 @@
   min-height: 500px; 
 }
 
+
+
 .text-3xl.font-bold.mb-2.mt-6 {
   font-family: "Times New Roman", Times, serif;
   font-style: italic;       /* 斜体 */
@@ -13,6 +15,8 @@
   font-weight: bold;        /* 保持粗体 */
   margin-bottom: 3rem;  /* 原本是 0.5rem，现在加大，比如 2rem */
 }
+
+
 
 
 
@@ -92,9 +96,9 @@ a[href='/tags/machine-learning/'] {
   flex-direction: column;  /* 在小屏幕下使元素垂直排列 */
   justify-content: center; /* 水平方向居中 */
   align-items: center;     /* 垂直方向居中 */
-  max-width: 100%;         /* 限制最大宽度 */
+  max-width: 90%;         /* 限制最大宽度 */
   margin: 0 auto;          /* 水平居中 */
-  padding: 0 1rem;       /* 添加内边距，根据需要调整 */
+  padding: 1 1rem;       /* 添加内边距，根据需要调整 */
 }
 
 @media (min-width: 1024px) {
