@@ -29,8 +29,8 @@ role: "fengjiawei126@gmail.com"
 # Organizations/Affiliations to display in Biography blox
 organizations:
 
-  - name: Peking University (Visiting Student)
-  - name: City University of Hong Kong (Part-time RA)
+  - name: College of Engineering, Peking University (Visiting Student)
+  - name: Sustainability-X Lab, The University of Hong Kong (Research Assistant)
   
 
     # url: https://openai.com/
