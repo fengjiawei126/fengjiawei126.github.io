@@ -79,7 +79,7 @@ education:
   #   date_start: 2025-12-01
   #   date_end: 2025-02-01
 
-  - area: BE in E-business
+  - area: BEng in E-business Technology
     institution: Northeastern University
     date_start: 2019-09-01
     date_end: 2023-06-01
