@@ -29,9 +29,9 @@ role: "fengjiawei126@gmail.com"
 # Organizations/Affiliations to display in Biography blox
 organizations:
 
-  - name: College of Systems Engineering, National University of Defense Technology (Master's Candidate)
-  - name: College of Engineering, Peking University (Visiting Student)
-  - name: Sustainability-X Lab, The University of Hong Kong (Research Assistant)
+  - name: National University of Defense Technology (Master's Candidate)
+  - name: Peking University (Visiting Student)
+  - name: The University of Hong Kong (Research Assistant)
   
 
     # url: https://openai.com/
