@@ -50,14 +50,16 @@ profiles:
   #   url: https://www.instagram.com/
   # - icon: brands/github
   #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=x7ye4GoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-4316-3904
+  - icon: custom/webofscience
+    url: https://webofscience.clarivate.cn/wos/author/record/IVH-2972-2023
   - icon: custom/csdn
     url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
+
 
 interests:
   - Urban Science
