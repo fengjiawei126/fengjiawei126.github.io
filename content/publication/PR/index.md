@@ -2,7 +2,7 @@
 title: "Human mobility in Epidemic Modeling"
 authors:
 - Xin Lu ⁺ *
-- Jiawei Feng ⁺
+- Jiawei Feng ⁺ *
 - Shengjie Lai
 - Petter Holme
 - Shuo Liu
@@ -15,10 +15,10 @@ authors:
 - Xiaoju Duan
 - Wenjun Mei
 - Hongjie Yu
-- Suoyi Tan
+- Suoyi Tan *
 - Fredrik Liljeros
 
-date: "2025-08-05T00:00:00Z"
+date: "2026-02-01T00:00:00Z"
 reading_time: false
 
 # Schedule page publish date (NOT publication's date).
@@ -30,23 +30,23 @@ publishDate: "2025-08-05T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv*, 2507.22799, doi: 10.48550/arXiv.2507.22799"
+publication: "*Physics Reports*, 1157(12) 1-45, doi: 10.1016/j.physrep.2025.10.010"
 # publication_short: ""
 
-abstract: "Human mobility forms the backbone of contact patterns through which infectious diseases propagate, fundamentally shaping the spatio-temporal dynamics of epidemics and pandemics. While traditional models are often based on the assumption that all individuals have the same probability of infecting every other individual in the population — a so-called random homogeneous mixing — they struggle to capture the complex and heterogeneous nature of real-world human interactions. Recent advancements in data-driven methodologies and computational capabilities have unlocked the potential of integrating high-resolution human mobility data into epidemic modeling, significantly improving the accuracy, timeliness, and applicability of epidemic risk assessment, contact tracing, and intervention strategies. This review provides a comprehensive synthesis of the current landscape in human mobility-informed epidemic modeling. We explore diverse sources and representations of human mobility data, and then examine the behavioral and structural roles of mobility and contact in shaping disease transmission dynamics. Furthermore, the review spans a wide range of epidemic modeling approaches, ranging from classical compartmental models to network-based, agent-based, and machine learning models. And we also discuss how mobility integration enhances risk management and response strategies during epidemics. By synthesizing these insights, the review can serve as a foundational resource for researchers and practitioners, bridging the gap between epidemiological theory and the dynamic complexities of human interaction while charting clear directions for future research."
-summary: arXiv
+abstract: "Human mobility forms the backbone of contact patterns through which infectious diseases propagate, fundamentally shaping the spatio-temporal dynamics of epidemics and pandemics. While traditional models are often based on the assumption that all individuals have the same probability of infecting every other individual in the population, a so-called random homogeneous mixing, they struggle to catch the complex and heterogeneous nature of real-world human interactions. Recent advancements in data-driven methodologies and computational capabilities have unlocked the potential of integrating high-resolution human mobility data into epidemic modeling, significantly improving the accuracy, timeliness, and applicability of epidemic risk assessment, contact tracing, and intervention strategies. This review provides a comprehensive synthesis of the current landscape in human mobility-informed epidemic modeling. We explore several data sources and representations of human mobility, and examine the behavioral and structural roles of mobility and contact in shaping disease transmission dynamics. Furthermore, the review spans a wide range of epidemic modeling approaches, ranging from classical compartmental models to network-based, agent-based, and machine learning models. It also discusses how mobility integration enhances risk management and response strategies during epidemics. By synthesizing these insights, the review can serve as a foundational resource for researchers and practitioners, bridging the gap between epidemiological theory and the dynamic complexities of human interaction while charting clear directions for future research."
+summary: Physics Reports
 
 tags:
 - System dynamics
 - Network science
-- 2025
+- 2026
 
 
 featured: true
 
 links:
 - name: Link
-  url: https://www.arxiv.org/abs/2507.22799
+  url: https://www.sciencedirect.com/science/article/pii/S0370157325002996
 url_pdf: uploads/PR.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
@@ -59,7 +59,7 @@ url_pdf: uploads/PR.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'The model structure of GSpect.'
+  caption: 'Compartmental models.'
   focal_point: ""
   preview_only: true
 

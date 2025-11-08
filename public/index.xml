@@ -36,7 +36,7 @@
     <item>
       <title>Human mobility in Epidemic Modeling</title>
       <link>http://localhost:1313/publication/pr/</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/pr/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
@@ -540,7 +540,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-132948675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419356728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -558,7 +558,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-132948675&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-419356728&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
