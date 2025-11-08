@@ -10,32 +10,36 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/2025/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/2026/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/pr/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/network-science/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/system-dynamics/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/2025/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/data-driven-supply-chains-mapping-and-disruption-analysis/</loc>

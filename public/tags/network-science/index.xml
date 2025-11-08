@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/network-science/</link>
       <atom:link href="http://localhost:1313/tags/network-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Science</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
       <title>Network Science</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Human mobility in Epidemic Modeling</title>
       <link>http://localhost:1313/publication/pr/</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/pr/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.

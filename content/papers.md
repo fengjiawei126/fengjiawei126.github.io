@@ -12,6 +12,19 @@ design:
 sections:
   - block: collection
     content:
+      title: 2026
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+        tag: "2026"
+ 
+      count: 190
+    design:
+      view: citation
+  - block: collection
+    content:
       title: 2025
       text: ""
       filters:
