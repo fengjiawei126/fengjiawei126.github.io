@@ -18,7 +18,7 @@ authors:
 - Suoyi Tan *
 - Fredrik Liljeros
 
-date: "2025-10-30T00:00:00Z"
+date: "2026-02-01T00:00:00Z"
 reading_time: false
 
 # Schedule page publish date (NOT publication's date).
@@ -39,7 +39,7 @@ summary: Physics Reports
 tags:
 - System dynamics
 - Network science
-- 2025
+- 2026
 
 
 featured: true
