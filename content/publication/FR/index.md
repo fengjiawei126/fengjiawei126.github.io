@@ -13,7 +13,7 @@ authors:
 # - ""
 # - ""
 # - "Corresponding author"
-date: "2026-02-01T00:00:00Z"
+date: "2025-03-01T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
 reading_time: false
 
@@ -35,7 +35,7 @@ abstract: "How intelligence emerges in living beings is a fundamental but largel
 summary: Fundamental Research
 tags:
   - Network science
-  - 2026
+  - 2025
 
 
 featured: true
