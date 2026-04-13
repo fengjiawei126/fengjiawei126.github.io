@@ -31,10 +31,10 @@ organizations:
 
   - name: National University of Defense Technology (Master's Candidate)
   - name: Peking University (Visiting Student)
-  - name: The University of Hong Kong (Research Assistant)
+  - name: The University of Hong Kong (Part-time RA)
   
 
-    # url: https://openai.com/
+
 
 
 
@@ -63,9 +63,9 @@ profiles:
 
 interests:
   - Urban Science
-  - Network Science
-  - Machine Learning
-  - System Dynamics
+  - Complex Systems
+  - Sustainability Science
+  - Computational Epidemics
 
 education:
   # - area: Part-time RA
@@ -83,7 +83,7 @@ education:
   #   date_end: 2025-02-01
 
   - area: MEng in Management Science & Engineering
-    institution: National University of Defense Technology
+    institution: National University of Defense Technology & Peking University
     date_start: 2026-06-01
     date_end: 2023-09-01
     # summary: |
@@ -108,6 +108,17 @@ education:
 
 
 work:
+  - position: Research Intern
+    company_name: The Hong Kong University of Science and Technology (Guangzhou)
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-03-01
+    date_end: 2023-08-31
+    summary: |
+      Responsibilities include:
+      - Trajectory modeling and analysis
+      - Urban infrastructure accessibility
+
   - position: Technical Competitor Analysis Intern
     company_name: R&D, Volkswagen
     company_url: ''
@@ -224,7 +235,7 @@ languages:
   - name: English
     percent: 70
   - name: Cantonese
-    percent: 10
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
