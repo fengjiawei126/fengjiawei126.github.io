@@ -10,6 +10,7 @@ design:
 
 # Page sections
 sections:
+
   - block: collection
     content:
       title: 2026
@@ -22,6 +23,7 @@ sections:
       count: 190
     design:
       view: citation
+      
   - block: collection
     content:
       title: 2025
@@ -35,6 +37,7 @@ sections:
       count: 190
     design:
       view: citation
+  
   - block: collection
     content:
       title: 2024
@@ -48,6 +51,10 @@ sections:
       count: 190
     design:
       view: citation
+      
+
+   
+      
     #   flip_alt_rows: true
 
 ---

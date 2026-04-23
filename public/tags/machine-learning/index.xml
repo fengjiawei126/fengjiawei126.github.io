@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Jiawei Feng’s Homepage</title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
-      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:57145/tags/machine-learning/</link>
+      <atom:link href="http://localhost:57145/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
+      <url>http://localhost:57145/media/icon_hu_54957b95986d73d8.png</url>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>http://localhost:57145/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>GSpect: Spectral filtering for cross-scale graph classification</title>
-      <link>http://localhost:1313/publication/gspect/</link>
+      <link>http://localhost:57145/publication/gspect/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gspect/</guid>
+      <guid>http://localhost:57145/publication/gspect/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
@@ -42,9 +42,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>DRAM-like Architecture with Asynchronous Refreshing for Continual Relation Extraction</title>
-      <link>http://localhost:1313/publication/dram-like-architecture-with-asynchronous-refreshing/</link>
+      <link>http://localhost:57145/publication/dram-like-architecture-with-asynchronous-refreshing/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dram-like-architecture-with-asynchronous-refreshing/</guid>
+      <guid>http://localhost:57145/publication/dram-like-architecture-with-asynchronous-refreshing/</guid>
       <description>&lt;!-- 
 
 
