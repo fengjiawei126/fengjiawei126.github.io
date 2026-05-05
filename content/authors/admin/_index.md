@@ -29,8 +29,8 @@ role: "fengjiawei126@gmail.com"
 # Organizations/Affiliations to display in Biography blox
 organizations:
 
-  - name: Peking University (Visiting Student)
-  - name: The University of Hong Kong (Part-time RA)
+  # - name: Peking University (Visiting Student)
+  # - name: The University of Hong Kong (Part-time RA)
   
 
 
@@ -56,8 +56,8 @@ profiles:
     url: https://orcid.org/0009-0005-4316-3904
   - icon: custom/webofscience
     url: https://webofscience.clarivate.cn/wos/author/record/IVH-2972-2023
-  - icon: custom/csdn
-    url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
+  # - icon: custom/csdn
+  #   url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
 
 
 interests:
@@ -95,40 +95,40 @@ education:
 
 
 
-work:
-  - position: Research Intern
-    company_name: The Hong Kong University of Science and Technology (Guangzhou)
-    company_url: ''
-    company_logo: ''
-    date_start: 2026-03-01
-    date_end: 2023-08-31
-    summary: |
-      Responsibilities include:
-      - Trajectory modeling and analysis
-      - Urban infrastructure accessibility
+# work:
+#   - position: Research Intern
+#     company_name: The Hong Kong University of Science and Technology (Guangzhou)
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2026-03-01
+#     date_end: 2023-08-31
+#     summary: |
+#       Responsibilities include:
+#       - Trajectory modeling and analysis
+#       - Urban infrastructure accessibility
 
-  - position: Technical Competitor Analysis Intern
-    company_name: R&D, Volkswagen
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-11-01
-    date_end: 2023-05-01
-    summary: |
-      Responsibilities include:
-      - Data-driven industry analysis
-      - Vehicle demand prediction
-      - Machine learning for market insights
-  - position: Data Analysis Intern
-    company_name: Netease
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-04-01
-    date_end: 2022-07-01
-    summary: |
-      Responsibilities include:
-      - Educational data verification
-      - Geospatial data processing
-      - Collaborative data analytics
+#   - position: Technical Competitor Analysis Intern
+#     company_name: R&D, Volkswagen
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2022-11-01
+#     date_end: 2023-05-01
+#     summary: |
+#       Responsibilities include:
+#       - Data-driven industry analysis
+#       - Vehicle demand prediction
+#       - Machine learning for market insights
+#   - position: Data Analysis Intern
+#     company_name: Netease
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2022-04-01
+#     date_end: 2022-07-01
+#     summary: |
+#       Responsibilities include:
+#       - Educational data verification
+#       - Geospatial data processing
+#       - Collaborative data analytics
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,10 +139,10 @@ skills:
       - name: R
         icon: code-bracket
         description: 'Visualization'
-        percent: 75
+        percent: 50
       - name: GIS
         description: 'Visualization & GIS analysis'
-        percent: 85
+        percent: 60
         icon: chart-bar
       - name: SQL
         description: 'Data extraction & analysis'
@@ -150,11 +150,11 @@ skills:
         icon: circle-stack
       - name: NLP
         description: 'Pre-trained model & large language model'
-        percent: 60
+        percent: 50
         icon: microphone
       - name: Python
         description: 'Simulation, calculation, and analysis'
-        percent: 90
+        percent: 80
         icon: code-bracket-square
       - name: Network Analysis
         description: 'Complex system modeling & cascade effect (ABM)'
@@ -219,11 +219,11 @@ skills:
 
 languages:
   - name: Chinese
-    percent: 100
+    percent: 80
   - name: English
-    percent: 70
+    percent: 65
   - name: Cantonese
-    percent: 5
+    percent: 1
 
 # Awards.
 #   Add/remove as many awards below as you like.
