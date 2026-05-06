@@ -84,8 +84,8 @@ education:
 
   - area: MEng in Management Science & Engineering
     institution: National University of Defense Technology
-    date_start: 2026-06-01
-    date_end: 2023-09-01
+    date_start: 2023-09-01
+    date_end: 2026-07-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -93,10 +93,10 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng in E-business Technology
+  - area: BEng in E-business
     institution: Northeastern University
     date_start: 2019-09-01
-    date_end: 2023-06-01
+    date_end: 2023-07-01
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -113,7 +113,7 @@ education:
 #     company_url: ''
 #     company_logo: ''
 #     date_start: 2026-03-01
-#     date_end: 2023-08-31
+#     date_end: 2026-08-31
 #     summary: |
 #       Responsibilities include:
 #       - Trajectory modeling and analysis
