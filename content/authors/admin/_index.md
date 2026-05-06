@@ -81,10 +81,10 @@ education:
   #   date_start: 2025-12-01
   #   date_end: 2025-02-01
 
-  - area: BEng in E-business Technology
+  - area: BEng in E-business
     institution: Northeastern University
     date_start: 2019-09-01
-    date_end: 2023-06-01
+    date_end: 2023-07-01
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -101,7 +101,7 @@ education:
 #     company_url: ''
 #     company_logo: ''
 #     date_start: 2026-03-01
-#     date_end: 2023-08-31
+#     date_end: 2026-08-31
 #     summary: |
 #       Responsibilities include:
 #       - Trajectory modeling and analysis
