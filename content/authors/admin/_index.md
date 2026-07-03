@@ -27,9 +27,9 @@ role: "fengjiawei126@gmail.com"
 
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
+# organizations:
 
-  - name: National University of Defense Technology (Master's Candidate)
+  # - name: 
   # - name: Peking University (Visiting Student)
   # - name: The University of Hong Kong (Part-time RA)
   
@@ -82,10 +82,10 @@ education:
   #   date_start: 2025-12-01
   #   date_end: 2025-02-01
 
-  - area: MEng in Management Science & Engineering
-    institution: National University of Defense Technology
-    date_start: 2023-09-01
-    date_end: 2026-07-01
+  # - area: MEng in Management Science & Engineering
+    # institution: National University of Defense Technology
+    # date_start: 2023-09-01
+    # date_end: 2026-07-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -93,10 +93,10 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng in E-business
-    institution: Northeastern University
-    date_start: 2019-09-01
-    date_end: 2023-07-01
+  # - area: BEng in E-business
+  #   institution: Northeastern University
+  #   date_start: 2019-09-01
+  #   date_end: 2023-07-01
     # summary: |
     #   GPA: 3.4/4.0
       

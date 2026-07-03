@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jiawei Feng is a master candidate who is interested in urban science and network science.'
+    description: ''
     # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -44,7 +44,7 @@ header:
 footer:
   
   copyright:
-    notice: '© Copyright 2025 Jiawei Feng. All rights reserved.'
+    notice: '© Copyright 2026 Jiawei Feng. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
@@ -54,8 +54,8 @@ footer:
   
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: ''
+  time_format: ''
 
 # Site features
 features:

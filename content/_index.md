@@ -49,18 +49,18 @@ sections:
   #   design:
   #     columns: '1'
   
-  - block: collection
-    id: papers
-    content:
-      title: Recent Works
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      count: 600
-    design:
-      view: article-grid
-      columns: 4
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Recent Works
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #     count: 600
+  #   design:
+  #     view: article-grid
+  #     columns: 4
 
  
   # - block: collection
