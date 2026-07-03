@@ -62,7 +62,7 @@ profiles:
 
 
 interests:
-  - Urban Science
+  - Urban Computing
   - Complex Systems
   - Sustainability Science
   - Computational Epidemics
@@ -271,4 +271,4 @@ languages:
 
 ## About Me
 
-My research focuses on leveraging empirical data (e.g., human mobility, supply chains, road networks, urban infrastructure, and renewable energy systems) to address real-world challenges using complex network theory, system dynamics, and machine learning.
+My research focuses on leveraging empirical data (e.g., human mobility, supply chains, road networks, urban infrastructures, and renewable energy systems) to address real-world challenges using complex network theory, system dynamics, and machine learning.
