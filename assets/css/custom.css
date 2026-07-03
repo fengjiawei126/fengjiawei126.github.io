@@ -165,3 +165,28 @@ section#section-collection:first-of-type {
 
 
 
+/* 让论文列表的容器整体在页面居中 */
+#section-collection .container {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;   /* 容器水平居中 */
+  justify-content: center !important;
+}
+
+/* 限制每篇论文内容块的最大宽度，并让它们作为块状整体居中 */
+#section-collection .w-full,
+#section-collection .flex-col,
+#section-collection article {
+
+  width: 100% !important;
+  margin-left: auto !important;    /* 左右 auto 实现块级居中 */
+  margin-right: auto !important;
+  text-align: left !important;     /* 文本内容依然靠左，保证图标和多行文本完美对齐 */
+}
+
+
+
+/* 修正前面提到的 padding 语法小错误 */
+.container {
+  padding: 1rem !important; 
+}
