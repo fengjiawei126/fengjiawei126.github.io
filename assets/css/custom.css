@@ -18,9 +18,6 @@
 
 
 
-
-
-
 .bio-text {
   margin-top: -95px;  /* 或其他调整 */
 }
@@ -97,7 +94,7 @@ a[href='/tags/machine-learning/'] {
   flex-direction: column;  /* 在小屏幕下使元素垂直排列 */
   justify-content: center; /* 水平方向居中 */
   align-items: center;     /* 垂直方向居中 */
-  max-width: 100%;        /* 限制最大宽度 */
+
   margin: 0 auto;          /* 水平居中 */
   padding: 1 1rem;       /* 添加内边距，根据需要调整 */
 }
