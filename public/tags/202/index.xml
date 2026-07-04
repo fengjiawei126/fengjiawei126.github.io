@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>202 | Jiawei Feng’s Homepage</title>
+    <link>http://localhost:1313/tags/202/</link>
+      <atom:link href="http://localhost:1313/tags/202/index.xml" rel="self" type="application/rss+xml" />
+    <description>202</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
+      <title>202</title>
+      <link>http://localhost:1313/tags/202/</link>
+    </image>
+    
+    <item>
+      <title>本科生国家奖学金</title>
+      <link>http://localhost:1313/awards/2025_%E7%A1%95%E5%A3%AB%E5%9B%BD%E5%A5%96---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/2025_%E7%A1%95%E5%A3%AB%E5%9B%BD%E5%A5%96---%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Jiawei Feng’s Homepage</title>
+    <link>http://localhost:1313/tags/awards/</link>
+      <atom:link href="http://localhost:1313/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
+      <title>Awards</title>
+      <link>http://localhost:1313/tags/awards/</link>
+    </image>
+    
+    <item>
+      <title>硕士研究生国家奖学金</title>
+      <link>http://localhost:1313/awards/2025_%E7%A1%95%E5%A3%AB%E5%9B%BD%E5%A5%96---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/2025_%E7%A1%95%E5%A3%AB%E5%9B%BD%E5%A5%96---%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;h2 id=&#34;award-information&#34;&gt;Award Information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Award:&lt;/strong&gt; 硕士研究生国家奖学金&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2026&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ranking:&lt;/strong&gt; National-level Scholarship&lt;/p&gt;
+&lt;h2 id=&#34;certificate-preview&#34;&gt;Certificate Preview&lt;/h2&gt;
+&lt;iframe src=&#34;certificate.pdf&#34; width=&#34;100%&#34; height=&#34;900px&#34; style=&#34;border: none;&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
