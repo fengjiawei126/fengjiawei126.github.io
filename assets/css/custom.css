@@ -187,3 +187,28 @@ section#section-collection:first-of-type {
 .container {
   padding: 1rem !important; 
 }
+
+#section-collection .pub-list-item.view-citation a.underline {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+}
+
+#section-collection {
+  counter-reset: award-item;
+}
+
+#section-collection .pub-list-item:has(a[href^="/awards/"]) {
+  counter-increment: award-item;
+  position: relative;
+  padding-left: 2rem;
+}
+
+#section-collection .pub-list-item:has(a[href^="/awards/"])::before {
+  content: "[" counter(award-item) "]";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: 700;
+}
