@@ -21,6 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
+
 role: "fengjiawei126@gmail.com"
 
 
@@ -29,13 +30,7 @@ role: "fengjiawei126@gmail.com"
 # Organizations/Affiliations to display in Biography blox
 # organizations:
 
-  # - name: 
-  # - name: Peking University (Visiting Student)
-  # - name: The University of Hong Kong (Part-time RA)
-  
-
-
-
+    # - name: The University of Hong Kong
 
 
 # Social network links
@@ -67,20 +62,17 @@ interests:
   - Sustainability Science
   - Computational Epidemics
 
-education:
-  # - area: Part-time RA
-  #   institution: City University of Hong Kong
-  #   date_start: 2026-06-01
-  #   date_end: 2025-06-01
+# education:
+#   - area: PhD
+#     institution: Sustainability-X Lab, The University of Hong Kong
+#     date_start: 2026-09-01
+    # date_end: 2030-07-01
   #   # summary: |
   #   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   # button:
   #   #   text: 'Read Thesis'
   #   #   url: 'https://example.com'
-  # - area: Visiting Student
-  #   institution: Peking University
-  #   date_start: 2025-12-01
-  #   date_end: 2025-02-01
+  
 
   # - area: MEng in Management Science & Engineering
     # institution: National University of Defense Technology
@@ -271,4 +263,4 @@ languages:
 
 ## About Me
 
-My research focuses on leveraging empirical data (e.g., human mobility, supply chains, road networks, urban infrastructures, and renewable energy systems) to address real-world challenges using complex network theory, system dynamics, and machine learning.
+My research focuses on leveraging data-driven methods to address real-world urban challenges and uncover the laws governing complex urban systems.
