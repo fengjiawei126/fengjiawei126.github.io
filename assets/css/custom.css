@@ -212,3 +212,7 @@ section#section-collection:first-of-type {
   top: 0;
   font-weight: 700;
 }
+
+h3.font-semibold {
+  margin-bottom: 28px;
+}
