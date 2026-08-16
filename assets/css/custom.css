@@ -196,7 +196,7 @@ section#section-collection:first-of-type {
 }
 
 .page-body {
-  counter-reset: reversed(chronological-item);
+  counter-reset: chronological-item;
 }
 
 #section-collection .pub-list-item {
