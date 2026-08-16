@@ -10,7 +10,7 @@
 
 .text-3xl.font-bold.mb-2.mt-6 {
   font-family: "Times New Roman", Times, serif;
-  font-style: italic;       /* 斜体 */
+  font-style: normal;
   font-size: 3rem;          /* 加大字体（比 text-3xl 默认的 1.875rem 大很多） */
   font-weight: bold;        /* 保持粗体 */
   margin-bottom: 3rem;  /* 原本是 0.5rem，现在加大，比如 2rem */
@@ -135,7 +135,7 @@ section#section-collection:first-of-type {
 .mb-6.text-3xl.font-bold.text-gray-900.dark\:text-white {
     font-family: 'Times New Roman', serif;
     margin-top: 0rem;
-    font-style: italic; 
+    font-style: normal;
     font-weight: bold;   /* 加粗 */
 
 }
