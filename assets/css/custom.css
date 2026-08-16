@@ -196,11 +196,11 @@ section#section-collection:first-of-type {
 }
 
 .page-body {
-  counter-reset: chronological-item;
+  counter-reset: reversed(chronological-item);
 }
 
 #section-collection .pub-list-item {
-  counter-increment: chronological-item;
+  counter-increment: chronological-item -1;
   position: relative;
   padding-left: 3.5rem;
 }
