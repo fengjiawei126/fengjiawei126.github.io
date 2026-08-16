@@ -32,5 +32,7 @@ links:
   - name: Link
     url: https://doi.org/10.1109/YAC71005.2026.11615518
 
+url_pdf: uploads/2026_YAC.pdf
+
 projects: []
 ---
