@@ -70,7 +70,7 @@
 
   
     
-    <link href="/css/custom.min.fe15f19dd56bf22dfb0105bd2733415c915e65c765d62cd383dacc726a7e48ef.css" rel="stylesheet" />
+    <link href="/css/custom.min.637e4cde653f9abc68a4baf671bc235332c2912ed0a3d883cd95d9c142246371.css" rel="stylesheet" />
   
 
   <script>
@@ -613,6 +613,9 @@
         
       
     
+  
+  
+  
   
   
   
@@ -2548,6 +2551,24 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 
 
+
+  
+    
+      
+      <script>
+  (() => {
+    const pageBody = document.querySelector('.page-body');
+    const items = pageBody?.querySelectorAll('#section-collection .pub-list-item');
+
+    if (items?.length) {
+      pageBody.style.counterReset = `chronological-item ${items.length + 1}`;
+    }
+  })();
+</script>
+
+      
+    
+  
 
 
 

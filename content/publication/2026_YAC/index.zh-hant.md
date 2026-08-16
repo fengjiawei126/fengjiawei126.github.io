@@ -4,7 +4,7 @@ authors:
   - Zixuan Zhou
   - Junkai Cheng
   - Jiawei Feng
-  - Wenjun Mei
+  - Wenjun Mei *
 
 date: "2026-05-08T00:00:00Z"
 reading_time: false

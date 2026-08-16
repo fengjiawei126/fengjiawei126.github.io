@@ -1,0 +1,10 @@
+<script>
+  (() => {
+    const pageBody = document.querySelector('.page-body');
+    const items = pageBody?.querySelectorAll('#section-collection .pub-list-item');
+
+    if (items?.length) {
+      pageBody.style.counterReset = `chronological-item ${items.length + 1}`;
+    }
+  })();
+</script>
