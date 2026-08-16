@@ -27,7 +27,8 @@ sections:
       
       css_class: dark
       background:
-        color: black
+        # Match the image's exact color so there is no black flash before it loads.
+        color: '#17181C'
         image:
           # Add your image background to `assets/media/`.
           filename: black.png

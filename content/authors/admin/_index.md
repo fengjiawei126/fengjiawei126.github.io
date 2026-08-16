@@ -63,7 +63,7 @@ interests:
   - Computational Epidemics
 
 education:
-      - area: PhD
+      - area: PhD student
         institution: Sustainability-X Lab, The University of Hong Kong
         date_start: 2026-09-01
     # date_end: 2030-07-01
