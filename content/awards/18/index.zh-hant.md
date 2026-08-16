@@ -1,8 +1,8 @@
 ---
-title: "2021-2022学年三好学生标兵"
+title: "2021-2022學年三好學生標兵"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

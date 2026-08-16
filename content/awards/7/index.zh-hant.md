@@ -1,11 +1,11 @@
 ---
-title: "第十四届河北省青年志愿者优秀个人"
+title: "第十四屆河北省青年志願者優秀個人"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-08-01T00:00:00Z"
-publication: "共青团河北省委/河北省青年志愿者协会"
+publication: "共青團河北省委/河北省青年志願者協會"
 tags:
   - 2022
 # Publication type.

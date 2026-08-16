@@ -1,8 +1,8 @@
 ---
-title: "2022年“自强之星”奖学金"
+title: "2022年“自強之星”獎學金"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

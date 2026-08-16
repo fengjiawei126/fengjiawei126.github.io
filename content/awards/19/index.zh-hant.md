@@ -1,8 +1,8 @@
 ---
-title: "2020年度创新创业奖学金"
+title: "2020年度創新創業獎學金"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | 馮嘉偉的個人主頁</title>
+    <title>Publications | 馮家偉的個人主頁</title>
     <link>https://fengjiawei126.github.io/zh-hant/publication/</link>
       <atom:link href="https://fengjiawei126.github.io/zh-hant/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>移动大数据在社会治理中的研究与应用进展</title>
+      <title>移動大數據在社會治理中的研究與應用進展</title>
       <link>https://fengjiawei126.github.io/zh-hant/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh-hant/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</guid>
@@ -131,7 +131,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>高阶关系建模方法、应用及展望</title>
+      <title>高階關係建模方法、應用及展望</title>
       <link>https://fengjiawei126.github.io/zh-hant/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh-hant/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</guid>
@@ -323,7 +323,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>恐怖组织合作网络多尺度建模及瓦解策略研究</title>
+      <title>恐怖組織合作網絡多尺度建模及瓦解策略研究</title>
       <link>https://fengjiawei126.github.io/zh-hant/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh-hant/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</guid>

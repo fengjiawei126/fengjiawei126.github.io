@@ -1,13 +1,13 @@
 ---
-title: "中国双法高等教育管理学术论坛青年学者优秀论文"
+title: "中國雙法高等教育管理學術論壇青年學者優秀論文"
 authors:
-- 冯家伟
-- 戴碧涛
-- 卜天赐
+- 馮家偉
+- 戴碧濤
+- 卜天賜
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-23T00:00:00Z"
-publication: "中国优选法统筹法与经济数学研究会高等教育管理分会"
+publication: "中國優選法統籌法與經濟數學研究會高等教育管理分會"
 tags:
   - 2023
 # Publication type.

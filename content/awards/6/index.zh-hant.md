@@ -1,11 +1,11 @@
 ---
-title: "2023届河北省普通高等学校优秀毕业生"
+title: "2023屆河北省普通高等學校優秀畢業生"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-01T00:00:00Z"
-publication: "河北省教育厅"
+publication: "河北省教育廳"
 tags:
   - 2023
 # Publication type.

@@ -1,7 +1,7 @@
 ---
-title: "2026届校级优秀毕业生"
+title: "2026屆校級優秀畢業生"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-07-04T00:00:00Z"

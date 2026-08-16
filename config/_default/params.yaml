@@ -42,6 +42,7 @@ header:
 
 # Site footer
 footer:
+  show_translations: false
   
   copyright:
     notice: '© Copyright 2026 Jiawei Feng. All rights reserved.'

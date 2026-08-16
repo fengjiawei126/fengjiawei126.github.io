@@ -1,19 +1,19 @@
 ---
-title: "中国优选法统筹法与经济数学研究会网络科学分会第五届学术年会优秀论文"
+title: "中國優選法統籌法與經濟數學研究會網絡科學分會第五屆學術年會優秀論文"
 authors:
 
-- 冯家伟
-- 蔡梦思
-- 戴方泽
-- 刘硕
-- 卜天赐
-- 张笑宇
-- 郑慧君
-- 吕欣
+- 馮家偉
+- 蔡夢思
+- 戴方澤
+- 劉碩
+- 卜天賜
+- 張笑宇
+- 鄭慧君
+- 呂欣
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-01T00:00:00Z"
-publication: "中国优选法统筹法与经济数学研究会网络科学分会"
+publication: "中國優選法統籌法與經濟數學研究會網絡科學分會"
 tags:
   - 2024
 # Publication type.
