@@ -13,13 +13,13 @@ sections:
 
   - block: collection
     content:
-      title: 2024
+      title: 2026
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-        tag: "2024"
+        tag: "2026"
       order: asc
       count: 190
     design:
@@ -42,13 +42,13 @@ sections:
   
   - block: collection
     content:
-      title: 2026
+      title: 2024
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-        tag: "2026"
+        tag: "2024"
       order: asc
  
       count: 190
