@@ -195,18 +195,18 @@ section#section-collection:first-of-type {
   color: inherit;
 }
 
-#section-collection {
-  counter-reset: award-item;
+.page-body {
+  counter-reset: chronological-item;
 }
 
-#section-collection .pub-list-item:has(a[href^="/awards/"]) {
-  counter-increment: award-item;
+#section-collection .pub-list-item {
+  counter-increment: chronological-item;
   position: relative;
   padding-left: 2rem;
 }
 
-#section-collection .pub-list-item:has(a[href^="/awards/"])::before {
-  content: "[" counter(award-item) "]";
+#section-collection .pub-list-item::before {
+  content: "[" counter(chronological-item) "]";
   position: absolute;
   left: 0;
   top: 0;
