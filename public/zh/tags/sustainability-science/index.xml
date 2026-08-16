@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability Science | 冯嘉伟的个人主页</title>
+    <link>https://fengjiawei126.github.io/zh/tags/sustainability-science/</link>
+      <atom:link href="https://fengjiawei126.github.io/zh/tags/sustainability-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainability Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fengjiawei126.github.io/media/icon_hu_54957b95986d73d8.png</url>
+      <title>Sustainability Science</title>
+      <link>https://fengjiawei126.github.io/zh/tags/sustainability-science/</link>
+    </image>
+    
+    <item>
+      <title>Blockchain-Enabled Equilibrium for Low-Carbon Computing Power Routing: A Tri-Level Stackelberg Approach</title>
+      <link>https://fengjiawei126.github.io/zh/publication/2026_yac/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fengjiawei126.github.io/zh/publication/2026_yac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
