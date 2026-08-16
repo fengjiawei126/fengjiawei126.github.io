@@ -1,22 +1,88 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+# Translations are paired by filename, for example `papers.md` and `papers.zh.md`.
 
-# Default language
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageCode: en-US
+  languageName: English
+  weight: 1
+  title: "Jiawei Feng’s Homepage"
+  menus:
+    main:
+      - identifier: homepage
+        name: Homepage
+        url: /
+        weight: 10
+      - identifier: publications
+        name: Publications
+        url: papers/
+        weight: 11
+      - identifier: awards
+        name: Awards
+        url: award/
+        weight: 13
+      - identifier: experience
+        name: Experience
+        url: experience/
+        weight: 20
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  languageName: 简体中文
+  weight: 2
+  title: 冯嘉伟的个人主页
+  params:
+    marketing:
+      seo:
+        description: 冯嘉伟的学术个人主页
+    footer:
+      copyright:
+        notice: "© 版权所有 2026 冯嘉伟。保留所有权利。"
+  menus:
+    main:
+      - identifier: homepage
+        name: 主页
+        url: /
+        weight: 10
+      - identifier: publications
+        name: 论文
+        url: papers/
+        weight: 11
+      - identifier: awards
+        name: 奖项
+        url: award/
+        weight: 13
+      - identifier: experience
+        name: 经历
+        url: experience/
+        weight: 20
+
+zh-hant:
+  languageCode: zh-Hant
+  languageName: 繁體中文
+  weight: 3
+  title: 馮嘉偉的個人主頁
+  params:
+    marketing:
+      seo:
+        description: 馮嘉偉的學術個人主頁
+    footer:
+      copyright:
+        notice: "© 版權所有 2026 馮嘉偉。保留所有權利。"
+  menus:
+    main:
+      - identifier: homepage
+        name: 主頁
+        url: /
+        weight: 10
+      - identifier: publications
+        name: 論文
+        url: papers/
+        weight: 11
+      - identifier: awards
+        name: 獎項
+        url: award/
+        weight: 13
+      - identifier: experience
+        name: 經歷
+        url: experience/
+        weight: 20
