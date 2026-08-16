@@ -62,10 +62,10 @@ interests:
   - Sustainability Science
   - Computational Epidemics
 
-# education:
-#   - area: PhD
-#     institution: Sustainability-X Lab, The University of Hong Kong
-#     date_start: 2026-09-01
+education:
+      - area: PhD
+        institution: Sustainability-X Lab, The University of Hong Kong
+        date_start: 2026-09-01
     # date_end: 2030-07-01
   #   # summary: |
   #   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
