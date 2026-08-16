@@ -1,17 +1,17 @@
 ---
-title: "中国优选法统筹法与经济数学研究会网络科学分会第六届学术年会优秀论文"
+title: "中國優選法統籌法與經濟數學研究會網絡科學分會第六屆學術年會優秀論文"
 authors:
-- 马祥瑞
-- 冯家伟
-- 马哲琦
+- 馬祥瑞
+- 馮家偉
+- 馬哲琦
 - 李佳旭
-- 戴碧涛
-- 戴方泽
-- 吕欣
+- 戴碧濤
+- 戴方澤
+- 呂欣
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-01T00:00:00Z"
-publication: "中国优选法统筹法与经济数学研究会网络科学分会"
+publication: "中國優選法統籌法與經濟數學研究會網絡科學分會"
 tags:
   - 2025
 # Publication type.

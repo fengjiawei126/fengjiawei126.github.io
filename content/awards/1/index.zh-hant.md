@@ -1,11 +1,11 @@
 ---
-title: "硕士研究生国家奖学金"
+title: "碩士研究生國家獎學金"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-18T00:00:00Z"
-publication: "中华人民共和国教育部"
+publication: "中華人民共和國教育部"
 tags:
   - 2025
 # Publication type.

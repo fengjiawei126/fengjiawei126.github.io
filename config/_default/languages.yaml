@@ -29,14 +29,14 @@ zh:
   languageCode: zh-Hans
   languageName: 简体中文
   weight: 2
-  title: 冯嘉伟的个人主页
+  title: 冯家伟的个人主页
   params:
     marketing:
       seo:
-        description: 冯嘉伟的学术个人主页
+        description: 冯家伟的学术个人主页
     footer:
       copyright:
-        notice: "© 版权所有 2026 冯嘉伟。保留所有权利。"
+        notice: "© 版权所有 2026 冯家伟。保留所有权利。"
   menus:
     main:
       - identifier: homepage
@@ -60,14 +60,14 @@ zh-hant:
   languageCode: zh-Hant
   languageName: 繁體中文
   weight: 3
-  title: 馮嘉偉的個人主頁
+  title: 馮家偉的個人主頁
   params:
     marketing:
       seo:
-        description: 馮嘉偉的學術個人主頁
+        description: 馮家偉的學術個人主頁
     footer:
       copyright:
-        notice: "© 版權所有 2026 馮嘉偉。保留所有權利。"
+        notice: "© 版權所有 2026 馮家偉。保留所有權利。"
   menus:
     main:
       - identifier: homepage

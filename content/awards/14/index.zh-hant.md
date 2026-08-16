@@ -1,8 +1,8 @@
 ---
-title: "2023年度起点一等奖学金"
+title: "2023年度起點一等獎學金"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

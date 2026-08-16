@@ -1,8 +1,8 @@
 ---
-title: "2020-2021学年校级优秀学生干部标兵"
+title: "2020-2021學年校級優秀學生幹部標兵"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

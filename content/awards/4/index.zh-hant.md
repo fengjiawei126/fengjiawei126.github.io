@@ -1,11 +1,11 @@
 ---
-title: "北京2022年冬奥会闭幕式筹备表现突出个人"
+title: "北京2022年冬奧會閉幕式籌備表現突出個人"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-01T00:00:00Z"
-publication: "北京冬奥组委开闭幕式工作部"
+publication: "北京冬奧組委開閉幕式工作部"
 tags:
   - 2022
 # Publication type.

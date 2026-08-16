@@ -216,3 +216,18 @@ section#section-collection:first-of-type {
 h3.font-semibold {
   margin-bottom: 28px;
 }
+
+/* Keep the four desktop navigation items centered independently of the language chooser. */
+@media (min-width: 1024px) {
+  #site-header .navbar {
+    position: relative;
+  }
+
+  #site-header #nav-menu {
+    position: absolute;
+    left: 50%;
+    width: max-content !important;
+    padding-bottom: 0;
+    transform: translateX(-50%);
+  }
+}

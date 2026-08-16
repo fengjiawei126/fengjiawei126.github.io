@@ -1,8 +1,8 @@
 ---
-title: "2021年度十佳双创之星"
+title: "2021年度十佳雙創之星"
 authors:
 
-- 冯家伟
+- 馮家偉
 
 reading_time: false
 # Schedule page publish date (NOT publication's date).

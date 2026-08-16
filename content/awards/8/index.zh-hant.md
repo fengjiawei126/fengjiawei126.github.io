@@ -1,7 +1,7 @@
 ---
-title: "德雅学子"
+title: "德雅學子"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-26T00:00:00Z"

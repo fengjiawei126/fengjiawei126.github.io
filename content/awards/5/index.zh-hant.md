@@ -1,11 +1,11 @@
 ---
-title: "中国电信奖学金·飞young奖"
+title: "中國電信獎學金·飛young獎"
 authors:
-- 冯家伟
+- 馮家偉
 reading_time: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01T00:00:00Z"
-publication: "共青团中央/中国光华科技基金会/全国学联"
+publication: "共青團中央/中國光華科技基金會/全國學聯"
 tags:
   - 2022
 # Publication type.
