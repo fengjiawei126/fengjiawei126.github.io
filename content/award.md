@@ -13,63 +13,18 @@ sections:
 
   - block: collection
     content:
-      title: 2021
+      title: 2026
       text: ""
       filters:
         folders:
           - awards
         exclude_featured: false
-        tag: "2021"
+        tag: "2026"
       order: asc
       count: 190
     design:
       view: citation
       
-  - block: collection
-    content:
-      title: 2022
-      text: ""
-      filters:
-        folders:
-          - awards
-        exclude_featured: false
-        tag: "2022"
-      order: asc
- 
-      count: 190
-    design:
-      view: citation
-  
-  - block: collection
-    content:
-      title: 2023
-      text: ""
-      filters:
-        folders:
-          - awards
-        exclude_featured: false
-        tag: "2023"
-      order: asc
- 
-      count: 190
-    design:
-      view: citation
-      
-  - block: collection
-    content:
-      title: 2024
-      text: ""
-      filters:
-        folders:
-          - awards
-        exclude_featured: false
-        tag: "2024"
-      order: asc
- 
-      count: 190
-    design:
-      view: citation
-
   - block: collection
     content:
       title: 2025
@@ -84,16 +39,61 @@ sections:
       count: 190
     design:
       view: citation
-    
+  
   - block: collection
     content:
-      title: 2026
+      title: 2024
       text: ""
       filters:
         folders:
           - awards
         exclude_featured: false
-        tag: "2026"
+        tag: "2024"
+      order: asc
+ 
+      count: 190
+    design:
+      view: citation
+      
+  - block: collection
+    content:
+      title: 2023
+      text: ""
+      filters:
+        folders:
+          - awards
+        exclude_featured: false
+        tag: "2023"
+      order: asc
+ 
+      count: 190
+    design:
+      view: citation
+
+  - block: collection
+    content:
+      title: 2022
+      text: ""
+      filters:
+        folders:
+          - awards
+        exclude_featured: false
+        tag: "2022"
+      order: asc
+ 
+      count: 190
+    design:
+      view: citation
+    
+  - block: collection
+    content:
+      title: 2021
+      text: ""
+      filters:
+        folders:
+          - awards
+        exclude_featured: false
+        tag: "2021"
       order: asc
  
       count: 190
