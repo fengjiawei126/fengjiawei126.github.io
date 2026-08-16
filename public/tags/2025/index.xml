@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025 | Jiawei Feng’s Homepage</title>
-    <link>http://localhost:1313/tags/2025/</link>
-      <atom:link href="http://localhost:1313/tags/2025/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fengjiawei126.github.io/tags/2025/</link>
+      <atom:link href="https://fengjiawei126.github.io/tags/2025/index.xml" rel="self" type="application/rss+xml" />
     <description>2025</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
+      <url>https://fengjiawei126.github.io/media/icon_hu_54957b95986d73d8.png</url>
       <title>2025</title>
-      <link>http://localhost:1313/tags/2025/</link>
+      <link>https://fengjiawei126.github.io/tags/2025/</link>
     </image>
     
     <item>
       <title>德雅学子</title>
-      <link>http://localhost:1313/awards/8/</link>
+      <link>https://fengjiawei126.github.io/awards/8/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/8/</guid>
+      <guid>https://fengjiawei126.github.io/awards/8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>硕士研究生国家奖学金</title>
-      <link>http://localhost:1313/awards/1/</link>
+      <link>https://fengjiawei126.github.io/awards/1/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/1/</guid>
+      <guid>https://fengjiawei126.github.io/awards/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>高阶关系建模方法、应用及展望</title>
-      <link>http://localhost:1313/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</link>
+      <link>https://fengjiawei126.github.io/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2025_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91/</guid>
       <description>&lt;!-- 
 
 
@@ -71,17 +71,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>中国优选法统筹法与经济数学研究会网络科学分会第六届学术年会优秀论文</title>
-      <link>http://localhost:1313/awards/11/</link>
+      <link>https://fengjiawei126.github.io/awards/11/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/11/</guid>
+      <guid>https://fengjiawei126.github.io/awards/11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network structure governs drosophila brain functionality</title>
-      <link>http://localhost:1313/publication/2025_fr/</link>
+      <link>https://fengjiawei126.github.io/publication/2025_fr/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2025_fr/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2025_fr/</guid>
       <description>&lt;!-- 
 
 
@@ -120,9 +120,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Perspectives on modelling epidemics with human mobility</title>
-      <link>http://localhost:1313/publication/2025_epl/</link>
+      <link>https://fengjiawei126.github.io/publication/2025_epl/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2025_epl/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2025_epl/</guid>
       <description>&lt;!-- 
 
 
@@ -161,9 +161,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Data-driven supply chains mapping and disruption analysis: The case of automotive SoC enterprises in China</title>
-      <link>http://localhost:1313/publication/2025_caie/</link>
+      <link>https://fengjiawei126.github.io/publication/2025_caie/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2025_caie/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2025_caie/</guid>
       <description>&lt;!-- 
 
 

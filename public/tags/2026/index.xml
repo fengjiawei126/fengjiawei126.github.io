@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2026 | Jiawei Feng’s Homepage</title>
-    <link>http://localhost:1313/tags/2026/</link>
-      <atom:link href="http://localhost:1313/tags/2026/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fengjiawei126.github.io/tags/2026/</link>
+      <atom:link href="https://fengjiawei126.github.io/tags/2026/index.xml" rel="self" type="application/rss+xml" />
     <description>2026</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_54957b95986d73d8.png</url>
+      <url>https://fengjiawei126.github.io/media/icon_hu_54957b95986d73d8.png</url>
       <title>2026</title>
-      <link>http://localhost:1313/tags/2026/</link>
+      <link>https://fengjiawei126.github.io/tags/2026/</link>
     </image>
     
     <item>
       <title>2026届校级优秀毕业生</title>
-      <link>http://localhost:1313/awards/9/</link>
+      <link>https://fengjiawei126.github.io/awards/9/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/9/</guid>
+      <guid>https://fengjiawei126.github.io/awards/9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>移动大数据在社会治理中的研究与应用进展</title>
-      <link>http://localhost:1313/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</link>
+      <link>https://fengjiawei126.github.io/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</guid>
       <description>&lt;!-- 
 
 
@@ -63,17 +63,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Second Prize of the Best Service Science Conference Paper Competition</title>
-      <link>http://localhost:1313/awards/12/</link>
+      <link>https://fengjiawei126.github.io/awards/12/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/12/</guid>
+      <guid>https://fengjiawei126.github.io/awards/12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated hierarchical framework for electric vehicle charging infrastructure management</title>
-      <link>http://localhost:1313/publication/2026_trd/</link>
+      <link>https://fengjiawei126.github.io/publication/2026_trd/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2026_trd/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2026_trd/</guid>
       <description>&lt;!-- 
 
 
@@ -112,9 +112,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Human mobility in Epidemic Modeling</title>
-      <link>http://localhost:1313/publication/2026_pr/</link>
+      <link>https://fengjiawei126.github.io/publication/2026_pr/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2026_pr/</guid>
+      <guid>https://fengjiawei126.github.io/publication/2026_pr/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
