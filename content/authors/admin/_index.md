@@ -57,10 +57,9 @@ profiles:
 
 
 interests:
-  - Urban Computing
   - Complex Systems
-  - Sustainability Science
-  - Computational Epidemics
+  - Human mobility
+  - Urban Science
 
 education:
       - area: PhD student

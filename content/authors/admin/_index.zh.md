@@ -57,10 +57,9 @@ profiles:
 
 
 interests:
-  - 城市计算
   - 复杂系统
-  - 可持续科学
-  - 计算流行病学
+  - 人类流动
+  - 城市科学
 
 education:
       - area: 博士生
