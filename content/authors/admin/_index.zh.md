@@ -65,6 +65,10 @@ education:
       - area: 博士生
         institution: 香港大学 Sustainability-X Lab
         date_start: 2026-09-01
+      - area: 工学学士
+        institution: 东北大学
+        date_start: 2019-09-01
+        date_end: 2023-07-01
     # date_end: 2030-07-01
   #   # summary: |
   #   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
