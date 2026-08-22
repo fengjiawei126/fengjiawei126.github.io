@@ -57,9 +57,9 @@ profiles:
 
 
 interests:
-  - Complex Systems
-  - Human Mobility
-  - Urban Science
+  - Complex systems
+  - Human mobility
+  - Urban science
 
 education:
       - area: PhD student
