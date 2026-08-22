@@ -38,6 +38,14 @@ p.powered-by:last-of-type {
   margin-bottom: -3rem; /* 控制该部分与下方内容的间距 */
 }
 
+#section-resume-experience time {
+  display: none;
+}
+
+html[lang^="zh"] #section-resume-biography-3 ul:not(.list-disc) > li + li {
+  margin-top: 0.75rem;
+}
+
 
 
 #section-resume-skills .flex {
