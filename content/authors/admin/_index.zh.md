@@ -58,6 +58,7 @@ profiles:
 
 interests:
   - 复杂系统
+  - 复杂网络
   - 人类流动
   - 城市科学
 
