@@ -24,7 +24,7 @@ publishDate: "2026-02-18T00:00:00Z"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation Research Part D: Transport and Environment*, 151, doi: 10.1016/j.trd.2026.105267"
+publication: "*Transportation Research Part D: Transport and Environment*, 154, 105267, doi: 10.1016/j.trd.2026.105267"
 # publication_short: "CAIE"
 
 abstract: This work presents a hierarchical optimization framework for electric vehicle (EV) charging infrastructure management that integrates spatial layout design, resource allocation, and real-time scheduling. Building upon prior studies that address these problems individually, our framework introduces vertical integration and horizontal coordination to more comprehensively analyze their critical interdependencies. The spatial layer employs integer linear programming with Voronoi-based decomposition, achieving spatial efficiency ratios up to 1.87. The resource allocation layer implements adaptive algorithm selection, dynamically choosing between mixed-integer programming, particle swarm optimization, and rolling horizon heuristics according to problem scale. The scheduling layer utilizes Soft Actor-Critic reinforcement learning with multi-dimensional reward functions for real-time decision-making. Experimental validation on a 2,102-space commercial parking lot demonstrates substantial improvements 23.7% reduction in vehicle movements, 48.6% reduction in waiting time, and 14.2% reduction in electricity costs. The framework maintains robust performance under operational disruptions, providing a scalable solution for sustainable EV charging infrastructure management.

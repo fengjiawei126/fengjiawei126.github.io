@@ -20,7 +20,7 @@ sections:
           - publication
         exclude_featured: false
         tag: "2026"
-      order: asc
+      order: desc
       count: 190
     design:
       view: citation
@@ -34,7 +34,7 @@ sections:
           - publication
         exclude_featured: false
         tag: "2025"
-      order: asc
+      order: desc
  
       count: 190
     design:
@@ -49,7 +49,7 @@ sections:
           - publication
         exclude_featured: false
         tag: "2024"
-      order: asc
+      order: desc
  
       count: 190
     design:

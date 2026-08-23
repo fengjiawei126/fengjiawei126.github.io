@@ -5,7 +5,7 @@
     <link>https://fengjiawei126.github.io/zh/tags/machine-learning/</link>
       <atom:link href="https://fengjiawei126.github.io/zh/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fengjiawei126.github.io/media/icon_hu_54957b95986d73d8.png</url>
       <title>Machine Learning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>GSpect: Spectral filtering for cross-scale graph classification</title>
       <link>https://fengjiawei126.github.io/zh/publication/2024_tnse/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2024_tnse/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.

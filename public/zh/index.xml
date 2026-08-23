@@ -31,7 +31,7 @@
     <item>
       <title>移动大数据在社会治理中的研究与应用进展</title>
       <link>https://fengjiawei126.github.io/zh/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2026_%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5/</guid>
       <description>&lt;!-- 
 
@@ -129,7 +129,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     <item>
       <title>Human mobility in Epidemic Modeling</title>
       <link>https://fengjiawei126.github.io/zh/publication/2026_pr/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2026_pr/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
@@ -220,9 +220,50 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>恐怖组织合作网络多尺度建模及瓦解策略研究</title>
+      <link>https://fengjiawei126.github.io/zh/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fengjiawei126.github.io/zh/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
+&lt;!-- 
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Network structure governs drosophila brain functionality</title>
       <link>https://fengjiawei126.github.io/zh/publication/2025_fr/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2025_fr/</guid>
       <description>&lt;!-- 
 
@@ -263,7 +304,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     <item>
       <title>Perspectives on modelling epidemics with human mobility</title>
       <link>https://fengjiawei126.github.io/zh/publication/2025_epl/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2025_epl/</guid>
       <description>&lt;!-- 
 
@@ -304,7 +345,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     <item>
       <title>Data-driven supply chains mapping and disruption analysis: The case of automotive SoC enterprises in China</title>
       <link>https://fengjiawei126.github.io/zh/publication/2025_caie/</link>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2025_caie/</guid>
       <description>&lt;!-- 
 
@@ -345,7 +386,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     <item>
       <title>GSpect: Spectral filtering for cross-scale graph classification</title>
       <link>https://fengjiawei126.github.io/zh/publication/2024_tnse/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://fengjiawei126.github.io/zh/publication/2024_tnse/</guid>
       <description>&lt;!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
@@ -366,47 +407,6 @@ This work is driven by the results in my [previous paper](/publication/conferenc
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
 
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>恐怖组织合作网络多尺度建模及瓦解策略研究</title>
-      <link>https://fengjiawei126.github.io/zh/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://fengjiawei126.github.io/zh/publication/2024_%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6/</guid>
-      <description>&lt;!-- 
-
-
-
-
-  
-    
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-
-
-
-
-
-
-  
-    
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt; --&gt;
-&lt;!-- 
 Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
