@@ -11,7 +11,7 @@ authors:
 # - ""
 # - ""
 # - "Corresponding author"
-date: "2024-10-16T00:00:00Z"
+date: "2025-04-14T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
 reading_time: false
 
@@ -32,7 +32,7 @@ summary: 系统科学与数学
 tags:
   - Network science
   - System dynamics
-  - 2024
+  - 2025
 
 
 featured: false

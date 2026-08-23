@@ -13,7 +13,7 @@ authors:
 # - ""
 # - ""
 # - "Corresponding author"
-date: "2025-01-17T00:00:00Z"
+date: "2025-01-25T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
 reading_time: false
 
@@ -26,7 +26,7 @@ publishDate: "2025-07-19T00:00:00Z"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Industrial Engineering*, 201(110897), doi: 10.1016/j.cie.2025.110897"
+publication: "*Computers & Industrial Engineering*, 201, 110897, doi: 10.1016/j.cie.2025.110897"
 # publication_short: "CAIE"
 
 abstract: Effective modeling of modern supply chains is crucial for improving visibility, mitigating systemic risks, and developing resilient strategies. However, data limitations imposed by industry sensitivity and competition have hindered research in this area. Combining big data and complex network theory, this study introduces an Open Supplier Knowledge Extraction and Complement (OSKEC) approach, incorporating cross-domain named entity recognition, firm entity fuzzy matching, and supplier relation inferring, to construct highly reliable supply chain networks from limited information. Applying OSKEC on the Chinese automotive Systems-on-Chips (SoCs) industry approves its effectiveness in enhancing supply chain visibility and resilience. Topological analysis for the built supply chain network reveals a clear scale-free degree distribution, implying a strong heterogeneity for the interdependence of entities in the network. Specifically, NVIDIA, Qualcomm, and Mobileye occupy the majority share of the automotive SoC market in China, while local enterprises only hold a smaller portion. We further develop two interaction disruption models (IDMs) which simulate the impact of various disturbances on firms with different recovery capacities and risk-transfer strategies, and find that a risk-transfer enterprise strategy may lead to a rapid collapse of the network in the early stages of disruptions. In general, the study improves the understanding of modern supply chain dynamics and inform effective risk management strategies in the Chinese automotive SoC sector.

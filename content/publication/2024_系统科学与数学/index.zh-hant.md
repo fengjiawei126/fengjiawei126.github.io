@@ -11,7 +11,7 @@ authors:
 # - ""
 # - ""
 # - "Corresponding author"
-date: "2024-10-16T00:00:00Z"
+date: "2025-04-14T00:00:00Z"
 # doi: "10.1016/j.cie.2025.110897"
 reading_time: false
 
@@ -32,7 +32,7 @@ summary: 系統科學與數學
 tags:
   - Network science
   - System dynamics
-  - 2024
+  - 2025
 
 
 featured: false
@@ -82,4 +82,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}} -->
 <!-- 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-
