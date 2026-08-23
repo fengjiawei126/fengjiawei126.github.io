@@ -42,7 +42,7 @@ p.powered-by:last-of-type {
   display: none;
 }
 
-html[lang^="zh"] #section-resume-biography-3 ul:not(.list-disc) > li + li {
+html[lang^="zh"] #section-resume-biography-3 ul:not(.list-disc):not(.network-icon) > li + li {
   margin-top: 0.75rem;
 }
 
