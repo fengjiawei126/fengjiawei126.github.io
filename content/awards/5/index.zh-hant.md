@@ -1,6 +1,5 @@
 ---
 title: "中國電信獎學金·飛young獎"
-draft: true
 authors:
 - 馮家偉
 reading_time: false
