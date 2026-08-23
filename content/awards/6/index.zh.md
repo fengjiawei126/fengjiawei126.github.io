@@ -1,5 +1,6 @@
 ---
 title: "2023届河北省普通高等学校优秀毕业生"
+draft: true
 authors:
 - 冯家伟
 reading_time: false

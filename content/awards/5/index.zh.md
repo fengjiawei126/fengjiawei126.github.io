@@ -1,6 +1,5 @@
 ---
 title: "中国电信奖学金·飞young奖"
-draft: true
 authors:
 - 冯家伟
 reading_time: false
