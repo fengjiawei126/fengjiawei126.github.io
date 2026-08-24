@@ -1,5 +1,6 @@
 ---
 title: "优秀团干部标兵"
+draft: true
 authors:
 
 - 冯家伟
