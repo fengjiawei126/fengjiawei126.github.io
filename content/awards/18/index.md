@@ -1,5 +1,6 @@
 ---
 title: "2021-2022学年三好学生标兵"
+draft: true
 authors:
 
 - 冯家伟

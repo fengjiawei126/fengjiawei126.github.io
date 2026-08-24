@@ -1,5 +1,6 @@
 ---
 title: "2020-2021学年校级优秀学生干部标兵"
+draft: true
 authors:
 
 - 冯家伟
