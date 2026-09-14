@@ -22,7 +22,7 @@ highlight_name: true
 
 # Role/position/tagline
 
-role: "fengjiawei126@gmail.com"
+role: "fengjiawei126@connect.hku.hk"
 
 
 
@@ -37,7 +37,7 @@ role: "fengjiawei126@gmail.com"
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:fengjiawei126@gmail.com'
+    url: 'mailto:fengjiawei126@connect.hku.hk'
   # label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
