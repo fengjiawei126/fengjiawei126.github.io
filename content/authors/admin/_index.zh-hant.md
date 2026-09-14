@@ -64,7 +64,7 @@ interests:
 
 education:
       - area: 博士生
-        institution: 香港大學 Sustainability-X Lab
+        institution: 香港大學 Sustainability X-Lab
         institution_url: https://www.sustainability-xlab.hku.hk/
         date_start: 2026-09-01
       # 本科學歷已在網站中隱藏。
