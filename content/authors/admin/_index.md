@@ -64,7 +64,7 @@ interests:
 
 education:
       - area: PhD student
-        institution: Sustainability-X Lab, The University of Hong Kong
+        institution: Sustainability X-Lab, The University of Hong Kong
         institution_url: https://www.sustainability-xlab.hku.hk/
         date_start: 2026-09-01
       # Undergraduate degree hidden from the website.
