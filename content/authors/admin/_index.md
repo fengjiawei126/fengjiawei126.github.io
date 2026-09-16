@@ -223,7 +223,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 65
+    percent: 75
   - name: Cantonese
     percent: 5
 
