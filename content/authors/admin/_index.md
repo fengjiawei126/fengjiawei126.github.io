@@ -67,7 +67,7 @@ education:
         institution: Sustainability X-Lab, The University of Hong Kong
         institution_url: https://www.sustainability-xlab.hku.hk/
         date_start: 2026-09-01
-      - area: Visiting Student
+      - area: Visiting student
         institution: College of Engineering, Peking University
         institution_url: https://www.coe.pku.edu.cn/
       # Undergraduate degree hidden from the website.
@@ -236,7 +236,7 @@ languages:
   - name: English
     percent: 65
   - name: Cantonese
-    percent: 1
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.

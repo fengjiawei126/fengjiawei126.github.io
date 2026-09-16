@@ -236,7 +236,7 @@ languages:
   - name: 英語
     percent: 65
   - name: 粵語
-    percent: 1
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
