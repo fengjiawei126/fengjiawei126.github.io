@@ -57,12 +57,11 @@ profiles:
 
 
 interests:
-  - 複雜系統
   - 複雜網路
   - 人類流動
-  - 城市科學
   - 公共衛生
   - 城市韌性
+  - 可持續性科學
 
 education:
       - area: 博士生
