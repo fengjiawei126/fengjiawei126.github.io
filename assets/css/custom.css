@@ -42,6 +42,10 @@ p.powered-by:last-of-type {
   display: none;
 }
 
+html:not([lang^="zh"]) #section-resume-biography-3 ul:not(.list-disc):not(.network-icon) > li + li {
+  margin-top: 0.5rem;
+}
+
 html[lang^="zh"] #section-resume-biography-3 ul:not(.list-disc):not(.network-icon) > li + li {
   margin-top: 0.75rem;
 }
