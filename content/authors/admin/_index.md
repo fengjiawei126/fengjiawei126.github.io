@@ -57,12 +57,11 @@ profiles:
 
 
 interests:
-  - Complex systems
   - Complex networks
   - Human mobility
-  - Urban science
   - Public health
   - Urban resilience
+  - Sustainability science
 
 education:
       - area: PhD student
