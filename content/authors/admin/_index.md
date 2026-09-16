@@ -272,4 +272,4 @@ languages:
 
 ## About Me
 
-My research focuses on leveraging data-driven methods to address real-world urban challenges and uncover the laws governing complex urban systems.
+Computational urban science using complex-systems and machine-learning approaches to understand urban sustainability and resilience.
