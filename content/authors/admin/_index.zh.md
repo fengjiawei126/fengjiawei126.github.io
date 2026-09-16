@@ -67,6 +67,9 @@ education:
         institution: 香港大学 Sustainability X-Lab
         institution_url: https://www.sustainability-xlab.hku.hk/
         date_start: 2026-09-01
+      - area: 访问学生
+        institution: 北京大学工学院
+        institution_url: https://www.coe.pku.edu.cn/
       # 本科学历已在网站中隐藏。
       # - area: 工学学士
       #   institution: 东北大学
