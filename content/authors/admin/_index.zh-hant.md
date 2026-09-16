@@ -234,7 +234,7 @@ languages:
   - name: 中文
     percent: 100
   - name: 英語
-    percent: 65
+    percent: 75
   - name: 粵語
     percent: 5
 
