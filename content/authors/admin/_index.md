@@ -61,6 +61,8 @@ interests:
   - Complex networks
   - Human mobility
   - Urban science
+  - Public health
+  - Urban resilience
 
 education:
       - area: PhD student

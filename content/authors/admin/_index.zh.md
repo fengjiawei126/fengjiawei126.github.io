@@ -61,6 +61,8 @@ interests:
   - 复杂网络
   - 人类流动
   - 城市科学
+  - 公共卫生
+  - 城市韧性
 
 education:
       - area: 博士生
