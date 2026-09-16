@@ -232,7 +232,7 @@ skills:
 
 languages:
   - name: 中文
-    percent: 80
+    percent: 100
   - name: 英語
     percent: 65
   - name: 粵語
