@@ -221,7 +221,7 @@ skills:
 
 languages:
   - name: Chinese
-    percent: 80
+    percent: 100
   - name: English
     percent: 65
   - name: Cantonese
