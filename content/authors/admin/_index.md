@@ -67,12 +67,12 @@ education:
       - area: PhD student
         institution: Sustainability X-Lab, The University of Hong Kong
         institution_url: https://www.sustainability-xlab.hku.hk/
-        institution_logo: hku-logo.png
+        institution_logo: hku-logo.svg
         date_start: 2026-09-01
       - area: Visiting student
         institution: College of Engineering, Peking University
         institution_url: https://www.coe.pku.edu.cn/
-        institution_logo: pku-logo.png
+        institution_logo: pku-logo.svg
       # Undergraduate degree hidden from the website.
       # - area: BEng
       #   institution: Northeastern University

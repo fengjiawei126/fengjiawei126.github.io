@@ -74,7 +74,7 @@
       <li class="mb-10 ms-6">
         {{ if $logo }}
         <span class="exp-logo-node absolute flex items-center justify-center rounded-full">
-            <img class="exp-logo" src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" alt="{{ .institution }}" loading="lazy" />
+            <img class="exp-logo" src="{{ $logo.RelPermalink }}" alt="{{ .institution }}" loading="lazy" />
         </span>
         {{ else }}
         <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-primary-900">
