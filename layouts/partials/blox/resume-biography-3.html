@@ -140,8 +140,14 @@
       <div class="section-subheading mb-3">{{ i18n "education" | markdownify }}</div>
       <ul class="">
         {{ range . }}
+        {{ $logo := "" }}
+        {{ with .institution_logo }}{{ $logo = resources.Get (printf "media/%s" .) }}{{ end }}
         <li class="flex items-start gap-3">
+          {{ if $logo }}
+          <img class="edu-logo flex-shrink-0 me-2 mt-1" src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" alt="{{ .institution }}" loading="lazy" />
+          {{ else }}
           {{ partial "functions/get_icon" (dict "name" "academic-cap" "attributes" "style=\"\" class='flex-shrink-0 w-5 h-5 me-2 mt-1'") }}
+          {{ end }}
           <div class="description">
             <p class="course">{{ .area }}{{ with .year }}, {{ . }}{{ end }}</p>
             <p class="text-sm">

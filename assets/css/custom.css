@@ -42,6 +42,13 @@ p.powered-by:last-of-type {
   display: none;
 }
 
+/* 教育经历条目前的校徽：透明底 PNG，直接置于深色背景上 */
+#section-resume-biography-3 .edu-logo {
+  width: 1.75rem;
+  height: 1.75rem;
+  object-fit: contain;
+}
+
 html:not([lang^="zh"]) #section-resume-biography-3 ul:not(.list-disc):not(.network-icon) > li + li {
   margin-top: 0.5rem;
 }
