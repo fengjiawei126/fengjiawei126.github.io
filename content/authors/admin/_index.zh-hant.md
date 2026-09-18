@@ -67,10 +67,12 @@ education:
       - area: 博士生
         institution: 香港大學 Sustainability X-Lab
         institution_url: https://www.sustainability-xlab.hku.hk/
+        institution_logo: hku-logo.png
         date_start: 2026-09-01
       - area: 訪問學生
         institution: 北京大學工學院
         institution_url: https://www.coe.pku.edu.cn/
+        institution_logo: pku-logo.png
       # 本科學歷已在網站中隱藏。
       # - area: 工學學士
       #   institution: 東北大學
