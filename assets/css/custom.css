@@ -49,6 +49,21 @@ p.powered-by:last-of-type {
   object-fit: contain;
 }
 
+/* 履历时间轴上的校徽节点：与页面底色一致的圆形遮罩，遮住竖线 */
+#section-resume-experience .exp-logo-node {
+  inset-inline-start: -1rem;
+  width: 2rem;
+  height: 2rem;
+  background-color: #17181c;
+  box-shadow: 0 0 0 8px #17181c;
+}
+
+#section-resume-experience .exp-logo {
+  width: 1.75rem;
+  height: 1.75rem;
+  object-fit: contain;
+}
+
 html:not([lang^="zh"]) #section-resume-biography-3 ul:not(.list-disc):not(.network-icon) > li + li {
   margin-top: 0.5rem;
 }
