@@ -36,9 +36,6 @@ role: "fengjiawei126@connect.hku.hk"
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:fengjiawei126@connect.hku.hk'
-  # label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -52,6 +49,9 @@ profiles:
     url: https://orcid.org/0009-0005-4316-3904
   - icon: custom/webofscience
     url: https://webofscience.clarivate.cn/wos/author/record/IVH-2972-2023
+  - icon: at-symbol
+    url: 'mailto:fengjiawei126@connect.hku.hk'
+  # label: E-mail Me
   # - icon: custom/csdn
   #   url: https://blog.csdn.net/JWsunshine?spm=1000.2115.3001.5343
 
