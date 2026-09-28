@@ -1,5 +1,6 @@
 ---
 title: "2022年“自強之星”獎學金"
+draft: true
 authors:
 
 - 馮家偉
