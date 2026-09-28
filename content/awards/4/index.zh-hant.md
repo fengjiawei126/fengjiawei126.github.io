@@ -1,5 +1,6 @@
 ---
 title: "北京2022年冬奧會閉幕式籌備表現突出個人"
+draft: true
 authors:
 - 馮家偉
 reading_time: false

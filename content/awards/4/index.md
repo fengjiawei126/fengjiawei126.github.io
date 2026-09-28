@@ -1,5 +1,6 @@
 ---
 title: "北京2022年冬奥会闭幕式筹备表现突出个人"
+draft: true
 authors:
 - 冯家伟
 reading_time: false

@@ -1,5 +1,6 @@
 ---
 title: "2020年度创新创业奖学金"
+draft: true
 authors:
 
 - 冯家伟

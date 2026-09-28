@@ -1,5 +1,6 @@
 ---
 title: "2021-2022学年大学生创新创业奖学金"
+draft: true
 authors:
 
 - 冯家伟

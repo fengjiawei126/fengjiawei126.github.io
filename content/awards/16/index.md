@@ -1,5 +1,6 @@
 ---
 title: "2022年“自强之星”奖学金"
+draft: true
 authors:
 
 - 冯家伟
