@@ -3,6 +3,8 @@
 {{/* Entries that are not rendered as their own page (e.g. awards) have an
      empty permalink, so their titles are shown as plain text. */}}
 {{ $url := $item.RelPermalink }}
+{{/* Awards sit under a year heading already, so their year is not repeated. */}}
+  {{ $show_year := ne $item.Section "awards" }}
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -11,9 +13,14 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
+    {{/* The theme resolves authors through the `authors` taxonomy, which is empty
+         for pages that are not rendered (e.g. awards), so fall back to the raw
+         `authors` front matter to keep the names visible. */}}
+    {{ $authors := partial "page_metadata_authors" $item }}
+    {{ if not (trim $authors " \n\t") }}{{ $authors = "" }}{{ range $i, $a := $item.Params.authors }}{{ $authors = printf "%s%s<span>%s</span>" $authors (cond (gt $i 0) ", " "") $a }}{{ end }}{{ $authors = $authors | safeHTML }}{{ end }}
+    {{ $authors }}
   </span>
-  ({{- $item.Date.Format "2006" -}}).
+  {{ if $show_year }}({{- $item.Date.Format "2006" -}}).{{ else if $authors }}.{{ end }}
   {{ with $url }}<a href="{{ . }}" class="underline">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}.
@@ -31,7 +38,12 @@
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}.
+    {{/* The theme resolves authors through the `authors` taxonomy, which is empty
+         for pages that are not rendered (e.g. awards), so fall back to the raw
+         `authors` front matter to keep the names visible. */}}
+    {{ $authors := partial "page_metadata_authors" $item }}
+    {{ if not (trim $authors " \n\t") }}{{ $authors = "" }}{{ range $i, $a := $item.Params.authors }}{{ $authors = printf "%s%s<span>%s</span>" $authors (cond (gt $i 0) ", " "") $a }}{{ end }}{{ $authors = $authors | safeHTML }}{{ end }}
+    {{ $authors }}.
   </span>
   {{ with $url }}<a href="{{ . }}">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
   {{ if $item.Params.publication_short }}
@@ -39,7 +51,7 @@
   {{ else if $item.Params.publication }}
     {{- $item.Params.publication | markdownify -}},
   {{ end }}
-  {{- $item.Date.Format "2006" -}}.
+  {{ if $show_year }}{{- $item.Date.Format "2006" -}}.{{ end }}
 
   {{ if $has_attachments }}
   <div class="flex flex-wrap space-x-3">
