@@ -18,9 +18,9 @@
          `authors` front matter to keep the names visible. */}}
     {{ $authors := partial "page_metadata_authors" $item }}
     {{ if not (trim $authors " \n\t") }}{{ $authors = "" }}{{ range $i, $a := $item.Params.authors }}{{ $authors = printf "%s%s<span>%s</span>" $authors (cond (gt $i 0) ", " "") $a }}{{ end }}{{ $authors = $authors | safeHTML }}{{ end }}
-    {{ $authors }}
+    {{ $authors -}}
   </span>
-  {{ if $show_year }}({{- $item.Date.Format "2006" -}}).{{ else if $authors }}.{{ end }}
+  {{- if $show_year }} ({{- $item.Date.Format "2006" -}}).{{ else if $authors }}.{{ end }}
   {{ with $url }}<a href="{{ . }}" class="underline">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}.
@@ -43,7 +43,7 @@
          `authors` front matter to keep the names visible. */}}
     {{ $authors := partial "page_metadata_authors" $item }}
     {{ if not (trim $authors " \n\t") }}{{ $authors = "" }}{{ range $i, $a := $item.Params.authors }}{{ $authors = printf "%s%s<span>%s</span>" $authors (cond (gt $i 0) ", " "") $a }}{{ end }}{{ $authors = $authors | safeHTML }}{{ end }}
-    {{ $authors }}.
+    {{ $authors -}}.
   </span>
   {{ with $url }}<a href="{{ . }}">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}.
   {{ if $item.Params.publication_short }}
