@@ -14,11 +14,11 @@ en:
         weight: 10
       - identifier: publications
         name: Publications
-        url: papers/
+        url: publications/
         weight: 11
       - identifier: awards
         name: Awards
-        url: award/
+        url: awards/
         weight: 13
       - identifier: experience
         name: Experience
@@ -45,11 +45,11 @@ zh:
         weight: 10
       - identifier: publications
         name: 论文
-        url: papers/
+        url: publications/
         weight: 11
       - identifier: awards
         name: 奖项
-        url: award/
+        url: awards/
         weight: 13
       - identifier: experience
         name: 经历
@@ -76,11 +76,11 @@ zh-hant:
         weight: 10
       - identifier: publications
         name: 論文
-        url: papers/
+        url: publications/
         weight: 11
       - identifier: awards
         name: 獎項
-        url: award/
+        url: awards/
         weight: 13
       - identifier: experience
         name: 經歷

@@ -2,6 +2,8 @@
 title: ''
 date: 2026-07-04
 type: landing
+aliases:
+  - /award/
 
 design:
   spacing: '1rem'
@@ -17,7 +19,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2026"
       order: asc
@@ -31,7 +33,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2025"
       order: asc
@@ -46,7 +48,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2024"
       order: asc
@@ -61,7 +63,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2023"
       order: asc
@@ -76,7 +78,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2022"
       order: asc
@@ -91,7 +93,7 @@ sections:
       text: ""
       filters:
         folders:
-          - awards
+          - award-items
         exclude_featured: false
         tag: "2021"
       order: asc

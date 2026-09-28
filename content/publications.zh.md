@@ -2,6 +2,8 @@
 title: ''
 date: 2023-10-24
 type: landing
+aliases:
+  - /zh/papers/
 
 design:
   spacing: '1rem'
