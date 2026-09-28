@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://fengjiawei126.github.io/sitemap.xml
