@@ -45,7 +45,7 @@ links:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/2025_CAIE.pdf
+url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
