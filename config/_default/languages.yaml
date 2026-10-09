@@ -44,7 +44,7 @@ zh:
         url: /
         weight: 10
       - identifier: publications
-        name: 论文
+        name: 发表
         url: publications/
         weight: 11
       - identifier: awards
@@ -75,7 +75,7 @@ zh-hant:
         url: /
         weight: 10
       - identifier: publications
-        name: 論文
+        name: 發表
         url: publications/
         weight: 11
       - identifier: awards
