@@ -73,6 +73,7 @@ education:
         institution: 北京大學工學院
         institution_url: https://www.coe.pku.edu.cn/
         institution_logo: pku-logo.svg
+        hide_on_homepage: true
       # 本科學歷已在網站中隱藏。
       # - area: 工學學士
       #   institution: 東北大學
@@ -99,6 +100,11 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
+
+work:
+  - position: 研究助理
+    company_name: 香港科技大學（廣州）
+    summary: ''
 
 # work:
 #   - position: Research Intern

@@ -135,9 +135,9 @@
     </div>
     {{ end }}
 
-    {{ with $person.education }}
+    {{ with (where $person.education "hide_on_homepage" "ne" true) }}
     <div class="">
-      <div class="section-subheading mb-3">{{ i18n "education" | markdownify }}</div>
+      <div class="section-subheading mb-3">{{ i18n "affiliations" | markdownify }}</div>
       <ul class="">
         {{ range . }}
         {{ $logo := "" }}

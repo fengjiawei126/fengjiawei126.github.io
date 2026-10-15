@@ -104,6 +104,9 @@
 - id: education
   translation: 教育經歷
 
+- id: affiliations
+  translation: 所屬機構
+
 - id: user_profile_latest
   translation: 最新
 

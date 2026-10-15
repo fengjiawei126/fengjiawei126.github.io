@@ -73,6 +73,7 @@ education:
         institution: 北京大学工学院
         institution_url: https://www.coe.pku.edu.cn/
         institution_logo: pku-logo.svg
+        hide_on_homepage: true
       # 本科学历已在网站中隐藏。
       # - area: 工学学士
       #   institution: 东北大学
@@ -99,6 +100,11 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
+
+work:
+  - position: 研究助理
+    company_name: 香港科技大学（广州）
+    summary: ''
 
 # work:
 #   - position: Research Intern

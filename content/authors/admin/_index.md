@@ -73,6 +73,7 @@ education:
         institution: College of Engineering, Peking University
         institution_url: https://www.coe.pku.edu.cn/
         institution_logo: pku-logo.svg
+        hide_on_homepage: true
       # Undergraduate degree hidden from the website.
       # - area: BEng
       #   institution: Northeastern University
@@ -99,6 +100,11 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
+
+work:
+  - position: Research Assistant
+    company_name: The Hong Kong University of Science and Technology (Guangzhou)
+    summary: ''
 
 # work:
 #   - position: Research Intern
