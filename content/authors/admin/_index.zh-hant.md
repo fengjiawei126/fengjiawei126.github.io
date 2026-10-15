@@ -69,11 +69,6 @@ education:
         institution_url: https://www.sustainability-xlab.hku.hk/
         institution_logo: hku-logo.svg
         date_start: 2026-09-01
-      - area: 訪問學生
-        institution: 北京大學工學院
-        institution_url: https://www.coe.pku.edu.cn/
-        institution_logo: pku-logo.svg
-        hide_on_homepage: true
       # 本科學歷已在網站中隱藏。
       # - area: 工學學士
       #   institution: 東北大學
@@ -104,6 +99,12 @@ education:
 work:
   - position: 研究助理
     company_name: 香港科技大學（廣州）
+    company_logo: hkust-gz-logo.png
+    summary: ''
+  - position: 訪問學生
+    company_name: 北京大學工學院
+    company_url: https://www.coe.pku.edu.cn/
+    company_logo: pku-logo.svg
     summary: ''
 
 # work:

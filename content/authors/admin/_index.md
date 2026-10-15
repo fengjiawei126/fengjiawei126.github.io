@@ -69,11 +69,6 @@ education:
         institution_url: https://www.sustainability-xlab.hku.hk/
         institution_logo: hku-logo.svg
         date_start: 2026-09-01
-      - area: Visiting student
-        institution: College of Engineering, Peking University
-        institution_url: https://www.coe.pku.edu.cn/
-        institution_logo: pku-logo.svg
-        hide_on_homepage: true
       # Undergraduate degree hidden from the website.
       # - area: BEng
       #   institution: Northeastern University
@@ -104,6 +99,12 @@ education:
 work:
   - position: Research Assistant
     company_name: The Hong Kong University of Science and Technology (Guangzhou)
+    company_logo: hkust-gz-logo.png
+    summary: ''
+  - position: Visiting student
+    company_name: College of Engineering, Peking University
+    company_url: https://www.coe.pku.edu.cn/
+    company_logo: pku-logo.svg
     summary: ''
 
 # work:
