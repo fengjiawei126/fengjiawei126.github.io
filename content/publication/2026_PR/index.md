@@ -47,7 +47,7 @@ featured: true
 links:
 - name: Link
   url: https://doi.org/10.1016/j.physrep.2025.10.010
-url_pdf: uploads/2026_PR.pdf
+url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'

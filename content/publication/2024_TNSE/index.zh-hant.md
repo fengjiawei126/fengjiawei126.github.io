@@ -35,7 +35,7 @@ featured: true
 links:
 - name: Link
   url: https://doi.org/10.1109/TNSE.2024.3513456
-url_pdf: uploads/2024_TNSE.pdf
+url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'

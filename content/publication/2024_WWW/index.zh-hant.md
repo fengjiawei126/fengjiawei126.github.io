@@ -52,7 +52,7 @@ featured: true
 links:
 - name: Link
   url: https://dl.acm.org/doi/10.1145/3589334.3645621
-url_pdf: uploads/2024_WWW.pdf
+url_pdf: ''
 
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
