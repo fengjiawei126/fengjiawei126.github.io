@@ -266,43 +266,20 @@ body:has(.homepage-network-layer) > .page-footer {
 }
 
 body:has(.homepage-network-layer) #section-resume-biography-3 .home-section-bg { display: none; }
-.homepage-network-layer { position: fixed; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; }
-.network-flash-layer { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.homepage-network-layer { --network-opacity: 0.075; position: fixed; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; contain: strict; }
+.network-animation-layer { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
 
 .research-network {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.075;
+  opacity: var(--network-opacity);
+  object-fit: cover;
   color: #b9d7e6;
   pointer-events: none;
   user-select: none;
 }
-
-.metro-track { stroke-width: 0.7; opacity: 0.2; }
-.metro-train { animation-duration: 60s; }
-.metro-flow {
-  stroke-width: 2.4;
-  stroke-dasharray: 14 160;
-  animation: metro-flow 60s linear infinite;
-  animation-duration: inherit;
-  animation-delay: inherit;
-  animation-direction: inherit;
-}
-.metro-aura { --metro-phase: 2px; stroke-width: 7.6; stroke-dasharray: 18 156; opacity: 0.12; }
-.metro-bloom { --metro-phase: 1px; stroke-width: 4.5; stroke-dasharray: 16 158; opacity: 0.3; }
-.metro-tail { --metro-phase: 16px; stroke-dasharray: 30 144; opacity: 0.23; }
-.metro-train.is-reversed .metro-tail { --metro-phase: 0px; }
-.metro-core { opacity: 0.9; }
-.network-node { animation: network-breathe 7s ease-in-out infinite alternate; }
-.network-paused .metro-flow,
-.network-paused .network-node { animation-play-state: paused; }
-@keyframes metro-flow {
-  from { stroke-dashoffset: var(--metro-phase, 0px); }
-  to { stroke-dashoffset: calc(var(--metro-phase, 0px) - 348px); }
-}
-@keyframes network-breathe { from { opacity: 0.4; } to { opacity: 1; } }
 
 .copy-trigger {
   appearance: none;
@@ -314,7 +291,8 @@ body:has(.homepage-network-layer) #section-resume-biography-3 .home-section-bg {
   text-align: inherit;
   cursor: pointer;
 }
-.copy-trigger:hover { color: #a5c8ff; }
+.copy-trigger:hover,
+.copy-trigger:active { color: rgb(var(--color-primary-400)); }
 .copy-trigger:focus-visible,
 .email-icon:focus-visible,
 button.hb-attachment-link:focus-visible {
@@ -334,15 +312,15 @@ button.hb-attachment-link { cursor: pointer; font-family: inherit; }
   align-items: center;
   justify-content: center;
   gap: 7px;
-  width: 166.5px;
+  width: max-content;
   max-width: calc(100vw - 40px - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px));
   box-sizing: border-box;
   overflow: hidden;
-  padding: 7px 20px;
+  padding: 7px 14px;
   border: 1px solid rgb(255 255 255 / 24%);
   border-radius: 6px;
   background: #17181c;
-  color: #ffffff;
+  color: rgb(var(--color-primary-400));
   box-shadow: 0 5px 20px rgb(23 24 28 / 36%), 0 0 18px rgb(255 255 255 / 8%);
   font-family: inherit;
   font-size: 0.8125rem;
@@ -386,11 +364,9 @@ button.hb-attachment-link { cursor: pointer; font-family: inherit; }
 .reviewer-list li::marker { color: #9ca3af; }
 
 @media (max-width: 767px) {
-  .research-network { opacity: 0.065; }
+  .homepage-network-layer { --network-opacity: 0.065; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .network-flash-layer { display: none; }
-  .metro-flow, .network-node { animation: none; }
   .copy-status,
   .copy-status.is-visible:not(.is-error),
   .copy-status.is-visible:not(.is-error)::before,
@@ -398,6 +374,19 @@ button.hb-attachment-link { cursor: pointer; font-family: inherit; }
   .copy-status { transform: none; }
   .copy-status-check { stroke-dashoffset: 0; }
   .copy-status::before { display: none; }
+}
+
+[data-hb-language-chooser],
+[data-hb-language-chooser] > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#site-header [data-hb-language-chooser] + ul a {
+  padding-inline: 12px;
+  text-align: center;
 }
 
 /* Keep desktop navigation centered independently of the language chooser. */

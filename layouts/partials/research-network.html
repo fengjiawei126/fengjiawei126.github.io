@@ -1,63 +1,13 @@
-{{/* Official, north-up geometry. Flow is decorative, not measured traffic. */}}
+{{/* Cache static geometry separately so motion never repaints the road map. */}}
 {{ with site.Data.hong_kong_roads }}
-<div class="homepage-network-layer" aria-hidden="true">
-<svg class="research-network" viewBox="{{ .clip.x }} {{ .clip.y }} {{ .clip.width }} {{ .clip.height }}" preserveAspectRatio="xMidYMid slice" fill="none" data-geographic-bounds="{{ delimit .extent.wgs84 "," }}" data-source="{{ .source.metadata }}" focusable="false" xmlns="http://www.w3.org/2000/svg">
-  <title>Hong Kong Island and Kowloon road and MTR networks</title>
-  <desc>Official road and generalized existing MTR geometry, north up. Decorative motion, not live road traffic or train positions.</desc>
-  <metadata>Road geometry © HKSAR Government, Lands Department. Source: Common Spatial Data Infrastructure (CSDI) Portal. Terms: {{ .source.terms }}</metadata>
-  <defs>
-    <clipPath id="hk-road-extent"><rect x="{{ .clip.x }}" y="{{ .clip.y }}" width="{{ .clip.width }}" height="{{ .clip.height }}" /></clipPath>
-    {{ range .routes }}<path id="{{ .id }}" d="{{ .d }}" data-route-name="{{ .name }}"{{ with .crossing_type }} data-crossing-type="{{ . }}"{{ end }}{{ with .crossing_name }} data-crossing-name="{{ . }}"{{ end }} />{{ end }}
-  </defs>
-  <g class="network-geometry" clip-path="url(#hk-road-extent)">
-    <g class="network-roads" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-      {{ range .roads }}<path class="network-road network-road-{{ .kind }}" d="{{ .d }}" stroke-width="{{ if eq .kind "major" }}1{{ else }}0.45{{ end }}" opacity="{{ if eq .kind "major" }}0.85{{ else }}0.5{{ end }}" />{{ end }}
-    </g>
-    {{ with site.Data.hong_kong_metro }}
-    <g class="network-metro" stroke="currentColor" stroke-linecap="round" data-source="{{ .source.metadata }}">
-      <metadata>Railway geometry © HKSAR Government, Lands Department. Source: CSDI Portal, {{ .source.product }}. Terms: {{ .source.terms }}. {{ .note }}</metadata>
-      <defs>{{ range .paths }}<path id="{{ .id }}" d="{{ .d }}" />{{ end }}</defs>
-      {{ range .paths }}
-      <use class="metro-track" href="#{{ .id }}" />
-      <g class="metro-train" data-rail-source-id="{{ .source_id }}">
-        <use class="metro-flow metro-aura" href="#{{ .id }}" />
-        <use class="metro-flow metro-bloom" href="#{{ .id }}" />
-        <use class="metro-flow metro-tail" href="#{{ .id }}" />
-        <use class="metro-flow metro-core" href="#{{ .id }}" />
-      </g>
-      {{ end }}
-    </g>
-    {{ end }}
-    <g fill="currentColor">
-      {{ range $index, $node := .nodes }}
-      <circle class="network-node" cx="{{ .x }}" cy="{{ .y }}" r="{{ if ge .degree 4 }}2.4{{ else }}1.6{{ end }}" style="animation-delay: -{{ mod $index 7 }}s" />
-      {{ end }}
-    </g>
-    <g fill="#ffffff">
-      {{ range seq 32 }}
-      <circle class="road-vehicle" r="2.8" stroke="currentColor" stroke-opacity="0.22" stroke-width="6" opacity="0" />
-      {{ end }}
-    </g>
-  </g>
-</svg>
-<svg class="network-flash-layer" viewBox="{{ .clip.x }} {{ .clip.y }} {{ .clip.width }} {{ .clip.height }}" preserveAspectRatio="xMidYMid slice" fill="none" focusable="false" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="hk-encounter-glow">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.8" />
-      <stop offset="0.3" stop-color="#ffffff" stop-opacity="0.25" />
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
-    </radialGradient>
-    <clipPath id="hk-flash-extent"><rect x="{{ .clip.x }}" y="{{ .clip.y }}" width="{{ .clip.width }}" height="{{ .clip.height }}" /></clipPath>
-  </defs>
-  <g clip-path="url(#hk-flash-extent)">
-    {{ range seq 24 }}
-    <g class="network-encounter" opacity="0">
-      <circle class="network-flash-halo" r="4" fill="url(#hk-encounter-glow)" />
-      <circle class="network-flash-ring" r="3" stroke="#ffffff" stroke-width="0.7" stroke-opacity="0.4" />
-      <circle class="network-flash-core" r="2" fill="#ffffff" />
-    </g>
-    {{ end }}
-  </g>
-</svg>
+{{ $map := resources.FromString "media/hong-kong-network.svg" (partialCached "research-network-map.svg" .) | minify | fingerprint }}
+{{ $routes := slice }}
+{{ range .routes }}{{ $routes = $routes | append (dict "d" .d) }}{{ end }}
+{{ $metro := slice }}
+{{ with site.Data.hong_kong_metro }}{{ range .paths }}{{ $metro = $metro | append .d }}{{ end }}{{ end }}
+{{ $motion := resources.FromString "media/hong-kong-motion.json" (dict "clip" .clip "routes" $routes "metro" $metro | jsonify) | fingerprint }}
+<div class="homepage-network-layer" aria-hidden="true" data-motion-src="{{ $motion.RelPermalink }}" data-geographic-bounds="{{ delimit .extent.wgs84 "," }}" data-source="{{ .source.metadata }}">
+  <img class="research-network" src="{{ $map.RelPermalink }}" width="{{ int .clip.width }}" height="{{ int .clip.height }}" alt="" decoding="async" fetchpriority="low">
+  <canvas class="network-animation-layer"></canvas>
 </div>
 {{ end }}

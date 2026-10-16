@@ -1,4 +1,8 @@
-{{ if .IsHome }}{{ partial "research-network.html" . }}{{ end }}
+{{ if .IsHome }}
+{{ partial "research-network.html" . }}
+{{ $network := resources.Get "js/network-background.js" | minify | fingerprint }}
+<script defer src="{{ $network.RelPermalink }}" integrity="{{ $network.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}
 <div id="copy-status" class="copy-status" role="status" aria-live="polite" aria-atomic="true"
      data-name-success="{{ i18n "name_copied" }}" data-email-success="{{ i18n "email_copied" }}" data-citation-success="{{ i18n "citation_copied" }}" data-failure="{{ i18n "copy_failed" }}">
   <svg class="copy-status-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">

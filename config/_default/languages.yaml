@@ -56,7 +56,7 @@ zh:
         url: awards/
         weight: 21
       - identifier: experience
-        name: 经历
+        name: 研究经历
         url: experience/
         weight: 20
       - identifier: service
@@ -91,7 +91,7 @@ zh-hant:
         url: awards/
         weight: 21
       - identifier: experience
-        name: 經歷
+        name: 研究經歷
         url: experience/
         weight: 20
       - identifier: service

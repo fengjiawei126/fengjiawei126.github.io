@@ -1,0 +1,17 @@
+{{ with site.Data.hong_kong_roads }}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ .clip.x }} {{ .clip.y }} {{ .clip.width }} {{ .clip.height }}" preserveAspectRatio="xMidYMid slice" fill="none">
+  <title>Hong Kong Island and Kowloon road and MTR networks</title>
+  <desc>Official road and generalized existing MTR geometry, north up. Decorative motion, not live traffic.</desc>
+  <metadata>Road geometry © HKSAR Government, Lands Department. Source: {{ .source.metadata }}. Terms: {{ .source.terms }}</metadata>
+  <g stroke="#b9d7e6" stroke-linecap="round" stroke-linejoin="round">
+    {{ range .roads }}<path d="{{ .d }}" stroke-width="{{ if eq .kind "major" }}1{{ else }}0.45{{ end }}" opacity="{{ if eq .kind "major" }}0.85{{ else }}0.5{{ end }}" />{{ end }}
+    {{ with site.Data.hong_kong_metro }}
+    <metadata>Railway geometry © HKSAR Government, Lands Department. Source: {{ .source.metadata }}, {{ .source.product }}. Terms: {{ .source.terms }}. {{ .note }}</metadata>
+    {{ range .paths }}<path d="{{ .d }}" stroke-width="0.7" opacity="0.2" />{{ end }}
+    {{ end }}
+  </g>
+  <g fill="#b9d7e6" opacity="0.7">
+    {{ range .nodes }}<circle cx="{{ .x }}" cy="{{ .y }}" r="{{ if ge .degree 4 }}2.4{{ else }}1.6{{ end }}" />{{ end }}
+  </g>
+</svg>
+{{ end }}
