@@ -107,6 +107,25 @@
 - id: affiliations
   translation: 所属机构
 
+- id: academic_service
+  translation: 审稿期刊
+- id: copy_email
+  translation: 复制邮箱地址
+- id: send_email
+  translation: 发送邮件
+- id: copy_name
+  translation: 复制姓名
+- id: name_copied
+  translation: 已复制
+- id: copy_citation
+  translation: 复制 BibTeX 引用
+- id: email_copied
+  translation: 已复制
+- id: citation_copied
+  translation: BibTeX 引用已复制
+- id: copy_failed
+  translation: 复制失败，请重试。
+
 - id: user_profile_latest
   translation: 最新
 
@@ -116,6 +135,9 @@
   translation: 查看证书
 
 # Experience widget
+
+- id: experience
+  translation: 经历
 
 - id: work_experience
   translation: 工作经历

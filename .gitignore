@@ -1,3 +1,10 @@
 # Hugo build output. The site is built fresh by .github/workflows/publish.yaml,
 # so the generated files do not belong in version control.
 /public/
+
+# Local browser previews only.
+/output/playwright/
+/.playwright-cli/
+
+# Local Python generator cache.
+/scripts/__pycache__/

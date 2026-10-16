@@ -34,10 +34,10 @@
 {{ end }}
 {{ $resource := $page.Resources.GetMatch "cite.bib" }}
 {{ with $resource }}
-<a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="{{ .RelPermalink }}" data-filename="{{ .RelPermalink }}">
+<button type="button" class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" data-copy-text="{{ .Content }}" data-copy-kind="citation" aria-label="{{ i18n "copy_citation" }}" title="{{ i18n "copy_citation" }}">
   {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_cite" }}
-</a>
+</button>
 {{ end }}
 {{ with $page.Params.url_code }}
   {{ $resource := $page.Resources.GetMatch . }}
@@ -159,7 +159,7 @@
       {{ $link = $link | relURL }}
     {{ end }}
   {{ else if in (slice "http" "https") $scheme }}
-    {{ $target = "" }}
+    {{ $target = "target=\"_blank\" rel=\"noopener noreferrer\"" }}
   {{ end }}
   <a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
     {{ partial "functions/get_icon" (dict "name" "link" "attributes" "style=\"height: 1em\" class='inline-block'") }}

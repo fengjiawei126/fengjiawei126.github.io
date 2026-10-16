@@ -1,0 +1,46 @@
+# Public ORCID peer-review groups, verified 2026-10-16. No conference record is public.
+source: https://orcid.org/0009-0005-4316-3904
+journals:
+  # Publisher-displayed Journal Impact Factors, checked 2026-10-16; not rendered.
+  - name: Cleaner Logistics and Supply Chain
+    issn: 2772-3909
+    review_count: 1
+    impact_factor: 6.6
+    metric_year: null # Elsevier does not state the year on this page.
+    source: https://www.elsevier.com/subject/environmental-science/journal-of-cleaner-production-family/journals
+  - name: BMC Medical Informatics and Decision Making
+    issn: 1472-6947
+    review_count: 2
+    impact_factor: 5.5
+    metric_year: 2025
+    source: https://link.springer.com/journal/12911
+  - name: Humanities & Social Sciences Communications
+    issn: 2662-9992
+    review_count: 1
+    impact_factor: 4.8
+    metric_year: 2025
+    source: https://www.nature.com/palcomms/journal-information
+  - name: Scientific Reports
+    issn: 2045-2322
+    review_count: 4
+    impact_factor: 4.9
+    metric_year: 2025
+    source: https://www.nature.com/srep/about
+  - name: Social Network Analysis and Mining
+    issn: 1869-5469
+    review_count: 2
+    impact_factor: 3.2
+    metric_year: 2025
+    source: https://link.springer.com/journal/13278
+  - name: International Journal of Data Science and Analytics
+    issn: 2364-4168
+    review_count: 1
+    impact_factor: 2.9
+    metric_year: 2025
+    source: https://link.springer.com/journal/41060
+  - name: Discover Computing
+    issn: 2948-2992
+    review_count: 2
+    impact_factor: 1.9
+    metric_year: 2025
+    source: https://link.springer.com/journal/10791

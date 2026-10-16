@@ -107,6 +107,25 @@
 - id: affiliations
   translation: 所屬機構
 
+- id: academic_service
+  translation: 審稿期刊
+- id: copy_email
+  translation: 複製郵箱地址
+- id: send_email
+  translation: 傳送郵件
+- id: copy_name
+  translation: 複製姓名
+- id: name_copied
+  translation: 已複製
+- id: copy_citation
+  translation: 複製 BibTeX 引用
+- id: email_copied
+  translation: 已複製
+- id: citation_copied
+  translation: BibTeX 引用已複製
+- id: copy_failed
+  translation: 複製失敗，請重試。
+
 - id: user_profile_latest
   translation: 最新
 
@@ -116,6 +135,9 @@
   translation: 查看證書
 
 # Experience widget
+
+- id: experience
+  translation: 經歷
 
 - id: present
   translation: 現在

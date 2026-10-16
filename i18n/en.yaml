@@ -1,2 +1,21 @@
 - id: affiliations
   translation: Affiliations
+
+- id: academic_service
+  translation: Review for
+- id: copy_email
+  translation: Copy email address
+- id: send_email
+  translation: Send email
+- id: copy_name
+  translation: Copy name
+- id: name_copied
+  translation: Copied
+- id: copy_citation
+  translation: Copy BibTeX citation
+- id: email_copied
+  translation: Copied
+- id: citation_copied
+  translation: BibTeX citation copied
+- id: copy_failed
+  translation: Unable to copy. Please try again.

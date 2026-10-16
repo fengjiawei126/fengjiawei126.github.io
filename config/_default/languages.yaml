@@ -19,11 +19,15 @@ en:
       - identifier: awards
         name: Awards
         url: awards/
-        weight: 13
+        weight: 21
       - identifier: experience
         name: Experience
         url: experience/
         weight: 20
+      - identifier: service
+        name: Activities
+        url: service/
+        weight: 18
 
 zh:
   languageCode: zh-Hans
@@ -48,13 +52,17 @@ zh:
         url: publications/
         weight: 11
       - identifier: awards
-        name: 奖项
+        name: 获奖
         url: awards/
-        weight: 13
+        weight: 21
       - identifier: experience
         name: 经历
         url: experience/
         weight: 20
+      - identifier: service
+        name: 活动
+        url: service/
+        weight: 18
 
 zh-hant:
   languageCode: zh-Hant
@@ -79,10 +87,14 @@ zh-hant:
         url: publications/
         weight: 11
       - identifier: awards
-        name: 獎項
+        name: 獲獎
         url: awards/
-        weight: 13
+        weight: 21
       - identifier: experience
         name: 經歷
         url: experience/
         weight: 20
+      - identifier: service
+        name: 活動
+        url: service/
+        weight: 18
