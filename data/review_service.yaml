@@ -15,6 +15,7 @@ journals:
     metric_year: 2025
     source: https://link.springer.com/journal/12911
   - name: Humanities & Social Sciences Communications
+    pinned: true
     issn: 2662-9992
     review_count: 1
     impact_factor: 4.8
