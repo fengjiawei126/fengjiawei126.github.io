@@ -281,10 +281,6 @@ body:has(.homepage-network-layer) #section-resume-biography-3 .home-section-bg {
   user-select: none;
 }
 
-/* Follow the page theme, including when the biography section itself stays dark. */
-:root { --copy-feedback-color: rgb(var(--color-primary-600)); }
-:root.dark { --copy-feedback-color: rgb(var(--color-primary-400)); }
-
 .copy-trigger {
   appearance: none;
   border: 0;
@@ -296,7 +292,7 @@ body:has(.homepage-network-layer) #section-resume-biography-3 .home-section-bg {
   cursor: pointer;
 }
 .copy-trigger:hover,
-.copy-trigger:active { color: var(--copy-feedback-color); }
+.copy-trigger:active { color: rgb(var(--color-primary-300)); }
 .copy-trigger:focus-visible,
 .email-icon:focus-visible,
 button.hb-attachment-link:focus-visible {

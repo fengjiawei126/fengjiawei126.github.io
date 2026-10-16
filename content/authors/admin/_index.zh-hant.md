@@ -98,7 +98,8 @@ education:
 
 work:
   - position: 研究助理
-    company_name: 香港科技大學（廣州）
+    company_name: 香港科技大學（廣州） Social Spatial Intelligence Lab
+    company_url: https://si-lab.city/
     company_logo: hkust-gz-logo.png
     summary: ''
   - position: 訪問學生

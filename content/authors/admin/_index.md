@@ -98,7 +98,8 @@ education:
 
 work:
   - position: Research Assistant
-    company_name: The Hong Kong University of Science and Technology (Guangzhou)
+    company_name: Social Spatial Intelligence Lab, The Hong Kong University of Science and Technology (Guangzhou)
+    company_url: https://si-lab.city/
     company_logo: hkust-gz-logo.png
     summary: ''
   - position: Visiting student

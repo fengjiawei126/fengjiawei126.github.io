@@ -98,7 +98,8 @@ education:
 
 work:
   - position: 研究助理
-    company_name: 香港科技大学（广州）
+    company_name: 香港科技大学（广州） Social Spatial Intelligence Lab
+    company_url: https://si-lab.city/
     company_logo: hkust-gz-logo.png
     summary: ''
   - position: 访问学生
