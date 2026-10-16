@@ -75,7 +75,7 @@ zh-hant:
         description: 馮家偉的學術個人主頁
     footer:
       copyright:
-        notice: "© 版權所有 2026 馮家偉。保留所有權利。"
+        notice: "© 版權所有 2026 馮家偉<span lang='zh-Hans'>。</span>保留所有權利<span lang='zh-Hans'>。</span>"
   menus:
     main:
       - identifier: homepage
