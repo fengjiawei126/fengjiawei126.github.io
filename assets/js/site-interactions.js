@@ -1,9 +1,4 @@
 (() => {
-  const status = document.getElementById('copy-status');
-  if (!status) return;
-  const statusLabel = status.querySelector('.copy-status-label');
-  let hideTimer;
-
   async function copyText(text) {
     if (window.isSecureContext && navigator.clipboard?.writeText) {
       try {
@@ -30,22 +25,6 @@
     if (!copied) throw new Error('Clipboard unavailable');
   }
 
-  function hideStatus() {
-    clearTimeout(hideTimer);
-    status.classList.remove('is-visible');
-  }
-
-  function showStatus(message, failed = false) {
-    clearTimeout(hideTimer);
-    status.classList.remove('is-visible');
-    statusLabel.textContent = message;
-    status.classList.toggle('is-error', failed);
-    // Restart the one-shot animation when copying again before dismissal.
-    void status.offsetWidth;
-    status.classList.add('is-visible');
-    hideTimer = setTimeout(hideStatus, failed ? 2800 : 1800);
-  }
-
   document.addEventListener('click', async (event) => {
     const trigger = event.target.closest('[data-copy-text]');
     if (!trigger) return;
@@ -54,10 +33,8 @@
     event.preventDefault();
     try {
       await copyText(text);
-      const messages = { name: status.dataset.nameSuccess, email: status.dataset.emailSuccess, citation: status.dataset.citationSuccess };
-      showStatus(messages[trigger.dataset.copyKind] || status.dataset.emailSuccess);
-    } catch (_) {
-      showStatus(status.dataset.failure, true);
+    } catch (error) {
+      console.warn('Copy failed:', error);
     }
   });
 })();
